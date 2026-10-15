@@ -1,5 +1,5 @@
-# Dark Ties mod / Nights Out With The Chairman
-(temporary title)
+
+![Alt text](https://github.com/profkanda97/nights-out-with-the-chairman-mod/blob/main/promo-images/nightsout.jpg)
 
 # Presentation
 I don't think RGG Studios is going to give us a DLC or a Director's Cut for Dark Ties with the option to invite Daigo to play mini-games with Mine.
