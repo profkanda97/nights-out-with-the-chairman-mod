@@ -21,7 +21,7 @@ I'm taking matters into my own hands.
 # Expected Release Date
 There is no expected release date for now. I will release a beta as soon as I can get some of the base features to work. 
 
-There is no garantee I'll ever complete this project in its entirety but I will give it my best.
+There is no guarantee I'll ever complete this project in its entirety but I will give it my best.
 
 # Disclaimer
 I don't know if I will succeed or if it is realistic. I do not know how to code, I do not know how to animate. Hell, I don't even know how to use github! 
