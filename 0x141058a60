@@ -1,0 +1,3246 @@
+[0x1429951e8]> pdf @ 0x141058a60
+/ fcn.141058a60();
+| ; var int64_t var_628h @ stack - 0x628
+| ; var int64_t var_620h @ stack - 0x620
+| ; var int64_t var_618h @ stack - 0x618
+| ; var int64_t var_608h @ stack - 0x608
+| ; var int64_t var_600h @ stack - 0x600
+| ; var int64_t var_5fch @ stack - 0x5fc
+| ; var int64_t var_5fah @ stack - 0x5fa
+| ; var int64_t var_5f8h @ stack - 0x5f8
+| ; var int64_t var_5f0h @ stack - 0x5f0
+| ; var int64_t var_5e8h @ stack - 0x5e8
+| ; var int64_t var_5e4h @ stack - 0x5e4
+| ; var int64_t var_5e0h @ stack - 0x5e0
+| ; var int64_t var_5dch @ stack - 0x5dc
+| ; var int64_t var_5d8h @ stack - 0x5d8
+| ; var int64_t var_5d4h @ stack - 0x5d4
+| ; var int64_t var_5d0h @ stack - 0x5d0
+| ; var int64_t var_5cch @ stack - 0x5cc
+| ; var int64_t var_5c8h @ stack - 0x5c8
+| ; var int64_t var_5c4h @ stack - 0x5c4
+| ; var int64_t var_5c0h @ stack - 0x5c0
+| ; var int64_t var_5bch @ stack - 0x5bc
+| ; var int64_t var_5b8h @ stack - 0x5b8
+| ; var int64_t var_5b4h @ stack - 0x5b4
+| ; var int64_t var_5b0h @ stack - 0x5b0
+| ; var int64_t var_5ach @ stack - 0x5ac
+| ; var int64_t var_5a8h @ stack - 0x5a8
+| ; var int64_t var_5a4h @ stack - 0x5a4
+| ; var int64_t var_5a0h @ stack - 0x5a0
+| ; var int64_t var_59ch @ stack - 0x59c
+| ; var int64_t var_598h @ stack - 0x598
+| ; var int64_t var_594h @ stack - 0x594
+| ; var int64_t var_590h @ stack - 0x590
+| ; var int64_t var_58ch @ stack - 0x58c
+| ; var int64_t var_588h @ stack - 0x588
+| ; var int64_t var_584h @ stack - 0x584
+| ; var int64_t var_580h @ stack - 0x580
+| ; var int64_t var_57ch @ stack - 0x57c
+| ; var int64_t var_578h @ stack - 0x578
+| ; var int64_t var_574h @ stack - 0x574
+| ; var int64_t var_570h @ stack - 0x570
+| ; var int64_t var_56ch @ stack - 0x56c
+| ; var int64_t var_568h @ stack - 0x568
+| ; var int64_t var_564h @ stack - 0x564
+| ; var int64_t var_560h @ stack - 0x560
+| ; var int64_t var_55ch @ stack - 0x55c
+| ; var int64_t var_558h @ stack - 0x558
+| ; var int64_t var_554h @ stack - 0x554
+| ; var int64_t var_550h @ stack - 0x550
+| ; var int64_t var_54ch @ stack - 0x54c
+| ; var int64_t var_548h @ stack - 0x548
+| ; var int64_t var_544h @ stack - 0x544
+| ; var int64_t var_540h @ stack - 0x540
+| ; var int64_t var_53ch @ stack - 0x53c
+| ; var int64_t var_538h @ stack - 0x538
+| ; var int64_t var_534h @ stack - 0x534
+| ; var int64_t var_530h @ stack - 0x530
+| ; var int64_t var_52ch @ stack - 0x52c
+| ; var int64_t var_528h @ stack - 0x528
+| ; var int64_t var_524h @ stack - 0x524
+| ; var int64_t var_520h @ stack - 0x520
+| ; var int64_t var_51ch @ stack - 0x51c
+| ; var int64_t var_518h @ stack - 0x518
+| ; var int64_t var_514h @ stack - 0x514
+| ; var int64_t var_510h @ stack - 0x510
+| ; var int64_t var_50ch @ stack - 0x50c
+| ; var int64_t var_508h @ stack - 0x508
+| ; var int64_t var_504h @ stack - 0x504
+| ; var int64_t var_500h @ stack - 0x500
+| ; var int64_t var_4fch @ stack - 0x4fc
+| ; var int64_t var_4f8h @ stack - 0x4f8
+| ; var int64_t var_4f4h @ stack - 0x4f4
+| ; var int64_t var_4f0h @ stack - 0x4f0
+| ; var int64_t var_4ech @ stack - 0x4ec
+| ; var int64_t var_4e8h @ stack - 0x4e8
+| ; var int64_t var_4e4h @ stack - 0x4e4
+| ; var int64_t var_4e0h @ stack - 0x4e0
+| ; var int64_t var_4dch @ stack - 0x4dc
+| ; var int64_t var_4d8h @ stack - 0x4d8
+| ; var int64_t var_4d4h @ stack - 0x4d4
+| ; var int64_t var_4d0h @ stack - 0x4d0
+| ; var int64_t var_4cch @ stack - 0x4cc
+| ; var int64_t var_4c8h @ stack - 0x4c8
+| ; var int64_t var_4c4h @ stack - 0x4c4
+| ; var int64_t var_4c0h @ stack - 0x4c0
+| ; var int64_t var_4bch @ stack - 0x4bc
+| ; var int64_t var_4b8h @ stack - 0x4b8
+| ; var int64_t var_4b4h @ stack - 0x4b4
+| ; var int64_t var_4b0h @ stack - 0x4b0
+| ; var int64_t var_4ach @ stack - 0x4ac
+| ; var int64_t var_4a8h @ stack - 0x4a8
+| ; var int64_t var_4a4h @ stack - 0x4a4
+| ; var int64_t var_4a0h @ stack - 0x4a0
+| ; var int64_t var_49ch @ stack - 0x49c
+| ; var int64_t var_498h @ stack - 0x498
+| ; var int64_t var_494h @ stack - 0x494
+| ; var int64_t var_490h @ stack - 0x490
+| ; var int64_t var_48ch @ stack - 0x48c
+| ; var int64_t var_488h @ stack - 0x488
+| ; var int64_t var_484h @ stack - 0x484
+| ; var int64_t var_480h @ stack - 0x480
+| ; var int64_t var_47ch @ stack - 0x47c
+| ; var int64_t var_478h @ stack - 0x478
+| ; var int64_t var_474h @ stack - 0x474
+| ; var int64_t var_470h @ stack - 0x470
+| ; var int64_t var_46ch @ stack - 0x46c
+| ; var int64_t var_468h @ stack - 0x468
+| ; var int64_t var_464h @ stack - 0x464
+| ; var int64_t var_460h @ stack - 0x460
+| ; var int64_t var_45ch @ stack - 0x45c
+| ; var int64_t var_458h @ stack - 0x458
+| ; var int64_t var_454h @ stack - 0x454
+| ; var int64_t var_450h @ stack - 0x450
+| ; var int64_t var_44ch @ stack - 0x44c
+| ; var int64_t var_448h @ stack - 0x448
+| ; var int64_t var_444h @ stack - 0x444
+| ; var int64_t var_440h @ stack - 0x440
+| ; var int64_t var_43ch @ stack - 0x43c
+| ; var int64_t var_438h @ stack - 0x438
+| ; var int64_t var_434h @ stack - 0x434
+| ; var int64_t var_430h @ stack - 0x430
+| ; var int64_t var_42ch @ stack - 0x42c
+| ; var int64_t var_428h @ stack - 0x428
+| ; var int64_t var_424h @ stack - 0x424
+| ; var int64_t var_420h @ stack - 0x420
+| ; var int64_t var_41ch @ stack - 0x41c
+| ; var int64_t var_418h @ stack - 0x418
+| ; var int64_t var_414h @ stack - 0x414
+| ; var int64_t var_410h @ stack - 0x410
+| ; var int64_t var_40ch @ stack - 0x40c
+| ; var int64_t var_408h @ stack - 0x408
+| ; var int64_t var_404h @ stack - 0x404
+| ; var int64_t var_400h @ stack - 0x400
+| ; var int64_t var_3fch @ stack - 0x3fc
+| ; var int64_t var_3f8h @ stack - 0x3f8
+| ; var int64_t var_3f4h @ stack - 0x3f4
+| ; var int64_t var_3f0h @ stack - 0x3f0
+| ; var int64_t var_3ech @ stack - 0x3ec
+| ; var int64_t var_3e8h @ stack - 0x3e8
+| ; var int64_t var_3e4h @ stack - 0x3e4
+| ; var int64_t var_3e0h @ stack - 0x3e0
+| ; var int64_t var_3dch @ stack - 0x3dc
+| ; var int64_t var_3d8h @ stack - 0x3d8
+| ; var int64_t var_3d4h @ stack - 0x3d4
+| ; var int64_t var_3d0h @ stack - 0x3d0
+| ; var int64_t var_3cch @ stack - 0x3cc
+| ; var int64_t var_3c8h @ stack - 0x3c8
+| ; var int64_t var_3c0h @ stack - 0x3c0
+| ; var int64_t var_3b8h @ stack - 0x3b8
+| ; var int64_t var_3b0h @ stack - 0x3b0
+| ; var int64_t var_3a8h @ stack - 0x3a8
+| ; var int64_t var_3a0h @ stack - 0x3a0
+| ; var int64_t var_398h @ stack - 0x398
+| ; var int64_t var_390h @ stack - 0x390
+| ; var int64_t var_388h @ stack - 0x388
+| ; var int64_t var_380h @ stack - 0x380
+| ; var int64_t var_378h @ stack - 0x378
+| ; var int64_t var_370h @ stack - 0x370
+| ; var int64_t var_368h @ stack - 0x368
+| ; var int64_t var_360h @ stack - 0x360
+| ; var int64_t var_358h @ stack - 0x358
+| ; var int64_t var_350h @ stack - 0x350
+| ; var int64_t var_348h @ stack - 0x348
+| ; var int64_t var_340h @ stack - 0x340
+| ; var int64_t var_338h @ stack - 0x338
+| ; var int64_t var_330h @ stack - 0x330
+| ; var int64_t var_328h @ stack - 0x328
+| ; var int64_t var_320h @ stack - 0x320
+| ; var int64_t var_318h @ stack - 0x318
+| ; var int64_t var_310h @ stack - 0x310
+| ; var int64_t var_308h @ stack - 0x308
+| ; var int64_t var_300h @ stack - 0x300
+| ; var int64_t var_2f8h @ stack - 0x2f8
+| ; var int64_t var_2f0h @ stack - 0x2f0
+| ; var int64_t var_2e8h @ stack - 0x2e8
+| ; var int64_t var_2e0h @ stack - 0x2e0
+| ; var int64_t var_2d8h @ stack - 0x2d8
+| ; var int64_t var_2d0h @ stack - 0x2d0
+| ; var int64_t var_2c8h @ stack - 0x2c8
+| ; var int64_t var_2c0h @ stack - 0x2c0
+| ; var int64_t var_2b8h @ stack - 0x2b8
+| ; var int64_t var_2b0h @ stack - 0x2b0
+| ; var int64_t var_2a8h @ stack - 0x2a8
+| ; var int64_t var_2a0h @ stack - 0x2a0
+| ; var int64_t var_298h @ stack - 0x298
+| ; var int64_t var_290h @ stack - 0x290
+| ; var int64_t var_288h @ stack - 0x288
+| ; var int64_t var_280h @ stack - 0x280
+| ; var int64_t var_278h @ stack - 0x278
+| ; var int64_t var_270h @ stack - 0x270
+| ; var int64_t var_268h @ stack - 0x268
+| ; var int64_t var_260h @ stack - 0x260
+| ; var int64_t var_258h @ stack - 0x258
+| ; var int64_t var_250h @ stack - 0x250
+| ; var int64_t var_248h @ stack - 0x248
+| ; var int64_t var_240h @ stack - 0x240
+| ; var int64_t var_238h @ stack - 0x238
+| ; var int64_t var_230h @ stack - 0x230
+| ; var int64_t var_228h @ stack - 0x228
+| ; var int64_t var_220h @ stack - 0x220
+| ; var int64_t var_218h @ stack - 0x218
+| ; var int64_t var_210h @ stack - 0x210
+| ; var int64_t var_208h @ stack - 0x208
+| ; var int64_t var_200h @ stack - 0x200
+| ; var int64_t var_1f8h @ stack - 0x1f8
+| ; var int64_t var_1f0h @ stack - 0x1f0
+| ; var int64_t var_1e8h @ stack - 0x1e8
+| ; var int64_t var_1e0h @ stack - 0x1e0
+| ; var int64_t var_1d8h @ stack - 0x1d8
+| ; var int64_t var_1d0h @ stack - 0x1d0
+| ; var int64_t var_1c8h @ stack - 0x1c8
+| ; var int64_t var_1c0h @ stack - 0x1c0
+| ; var int64_t var_1b8h @ stack - 0x1b8
+| ; var int64_t var_1b0h @ stack - 0x1b0
+| ; var int64_t var_1a8h @ stack - 0x1a8
+| ; var int64_t var_1a0h @ stack - 0x1a0
+| ; var int64_t var_198h @ stack - 0x198
+| ; var int64_t var_190h @ stack - 0x190
+| ; var int64_t var_188h @ stack - 0x188
+| ; var int64_t var_180h @ stack - 0x180
+| ; var int64_t var_178h @ stack - 0x178
+| ; var int64_t var_170h @ stack - 0x170
+| ; var int64_t var_168h @ stack - 0x168
+| ; var int64_t var_160h @ stack - 0x160
+| ; var int64_t var_158h @ stack - 0x158
+| ; var int64_t var_150h @ stack - 0x150
+| ; var int64_t var_148h @ stack - 0x148
+| ; var int64_t var_140h @ stack - 0x140
+| ; var int64_t var_138h @ stack - 0x138
+| ; var int64_t var_130h @ stack - 0x130
+| ; var int64_t var_128h @ stack - 0x128
+| ; var int64_t var_120h @ stack - 0x120
+| ; var int64_t var_118h @ stack - 0x118
+| ; var int64_t var_110h @ stack - 0x110
+| ; var int64_t var_108h @ stack - 0x108
+| ; var int64_t var_100h @ stack - 0x100
+| ; var int64_t var_f8h @ stack - 0xf8
+| ; var int64_t var_f0h @ stack - 0xf0
+| ; var int64_t var_e8h @ stack - 0xe8
+| ; var int64_t var_e0h @ stack - 0xe0
+| ; var int64_t var_d8h @ stack - 0xd8
+| ; var int64_t var_d0h @ stack - 0xd0
+| ; var int64_t var_c8h @ stack - 0xc8
+| ; var int64_t var_c0h @ stack - 0xc0
+| ; var int64_t var_b8h @ stack - 0xb8
+| ; var int64_t var_b0h @ stack - 0xb0
+| ; var int64_t var_a8h @ stack - 0xa8
+| ; var int64_t var_a0h @ stack - 0xa0
+| ; var int64_t var_98h @ stack - 0x98
+| ; var int64_t var_90h @ stack - 0x90
+| ; var int64_t var_88h @ stack - 0x88
+| ; var int64_t var_80h @ stack - 0x80
+| ; var int64_t var_78h @ stack - 0x78
+| ; var int64_t var_70h @ stack - 0x70
+| ; var int64_t var_68h @ stack - 0x68
+| ; var int64_t var_60h @ stack - 0x60
+| ; var int64_t var_58h @ stack - 0x58
+| ; var int64_t var_50h @ stack - 0x50
+| ; var int64_t var_48h @ stack - 0x48
+| ; var int64_t var_40h @ stack - 0x40
+| ; var int64_t var_38h @ stack - 0x38
+| ; var int64_t var_30h @ stack - 0x30
+| ; var int64_t var_28h @ stack - 0x28
+| ; var int64_t var_8h @ stack + 0x8
+| ; var int64_t var_10h @ stack + 0x10
+| ; var int64_t var_18h @ stack + 0x18
+| ; var int64_t var_20h @ stack + 0x20
+| 0x141058a60      mov qword [var_8h], rbx
+| 0x141058a65      mov qword [var_10h], rsi
+| 0x141058a6a      mov qword [var_18h], rdi
+| 0x141058a6f      mov qword [var_20h], r14
+| 0x141058a74      push rbp
+| 0x141058a75      lea rbp, qword [var_548h]
+| 0x141058a7d      sub rsp, 0x640
+| 0x141058a84      mov rsi, r9
+| 0x141058a87      mov rbx, rdx
+| 0x141058a8a      mov rdi, rcx
+| 0x141058a8d      mov rdx, r8
+| 0x141058a90      lea rcx, qword [var_5f0h]
+| 0x141058a95      call fcn.1400e2540
+| 0x141058a9a      nop
+| 0x141058a9b      mov rax, qword [var_5f0h]
+| 0x141058aa0      shl rax, 0x14
+| 0x141058aa4      sar rax, 0x14
+| 0x141058aa8      mov rdx, rax
+| 0x141058aab      shl rdx, 0x04
+| 0x141058aaf      xor r14d, r14d
+| 0x141058ab2      test rax, rax
+| 0x141058ab5      cmovz rdx, r14
+| 0x141058ab9      test rdx, rdx
+| 0x141058abc      jz 0x14105bab5
+| 0x141058ac2      mov eax, dword [rdx]
+| 0x141058ac4      test eax, eax
+| 0x141058ac6      jz 0x14105bab5
+| ; 5
+| 0x141058acc      cmp eax, 0x05
+| 0x141058acf      jnz 0x141058b36
+| 0x141058ad1      lea r9, qword [rdx-0x0c]
+| 0x141058ad5      lea r8, qword [0x142c44410]
+| ; 16
+| 0x141058adc      sub r8, 0x10
+| 0x141058ae0      lea r9, qword [r9+0x10]
+| 0x141058ae4      lea r8, qword [r8+0x10]
+| 0x141058ae8      vmovdqu xmm0, xmmword [r9]
+| 0x141058aed      vmovdqu xmm1, xmmword [r8]
+| 0x141058af2      vpcmpistri xmm0, xmm1, 0x18
+| 0x141058af8      jnbe 0x141058ae0
+| 0x141058afa      jb 0x141058da7
+| 0x141058b00      mov eax, dword [rbx]
+| 0x141058b02      mov dword [var_3f0h], eax
+| 0x141058b08      lea rdx, qword [var_3f0h]
+| 0x141058b0f      lea rcx, qword [var_3d0h]
+| 0x141058b16      mov r8, rsi
+| 0x141058b19      call fcn.141090f80
+| 0x141058b1e      mov dword [rdi], r14d
+| 0x141058b21      cmp rdi, rax
+| 0x141058b24      jz 0x14105bb4a
+| 0x141058b2a      mov ecx, dword [rax]
+| 0x141058b2c      mov dword [rdi], ecx
+| 0x141058b2e      mov dword [rax], r14d
+| 0x141058b31      jmp 0x14105bb4a
+| ; 0xa
+| ; 10
+| 0x141058b36      cmp eax, 0x0a
+| 0x141058b39      jnz 0x141058da7
+| 0x141058b3f      lea r8, qword [rdx-0x0c]
+| 0x141058b43      lea rax, qword [0x142c44418]
+| ; 16
+| 0x141058b4a      sub rax, 0x10
+| 0x141058b4e      nop
+| 0x141058b50      lea r8, qword [r8+0x10]
+| 0x141058b54      lea rax, qword [rax+0x10]
+| 0x141058b58      vmovdqu xmm0, xmmword [r8]
+| 0x141058b5d      vmovdqu xmm1, xmmword [rax]
+| 0x141058b61      vpcmpistri xmm0, xmm1, 0x18
+| 0x141058b67      jnbe 0x141058b50
+| 0x141058b69      jb 0x141058c0a
+| 0x141058b6f      mov ebx, dword [rbx]
+| 0x141058b71      xor ecx, ecx
+| 0x141058b73      call fcn.1428ae3a0
+| 0x141058b78      mov dword [var_5fah], 0xffff
+| ; 1492
+| 0x141058b80      mov ecx, 0x5d4
+| 0x141058b85      mov word [var_5fch], cx
+| 0x141058b8a      mov dword [var_600h], eax
+| 0x141058b8e      lea rcx, qword [var_600h]
+| 0x141058b93      call fcn.140065650
+| 0x141058b98      mov byte [var_608h], r14b
+| 0x141058b9d      mov dword [var_3ech], ebx
+| 0x141058ba3      mov rax, qword [var_600h]
+| 0x141058ba8      mov qword [var_3c8h], rax
+| 0x141058baf      movzx eax, word [var_5f8h]
+| 0x141058bb4      mov word [var_3c0h], ax
+| 0x141058bbb      mov qword [var_618h], rsi
+| 0x141058bc0      lea rax, qword [var_3ech]
+| 0x141058bc7      mov qword [var_620h], rax
+| 0x141058bcc      lea rax, qword [var_3c8h]
+| 0x141058bd3      mov qword [var_628h], rax
+| 0x141058bd8      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141058bdb      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141058bde      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141058be3      lea rcx, qword [var_534h]
+| 0x141058be7      call fcn.14107f0c0
+| 0x141058bec      mov dword [rdi], r14d
+| 0x141058bef      lea rax, qword [var_534h]
+| 0x141058bf3      cmp rdi, rax
+| 0x141058bf6      jz 0x14105bb4a
+| 0x141058bfc      mov eax, dword [var_534h]
+| 0x141058bff      mov dword [rdi], eax
+| 0x141058c01      mov dword [var_534h], r14d
+| 0x141058c05      jmp 0x14105bb4a
+| 0x141058c0a      lea r8, qword [rdx-0x0c]
+| 0x141058c0e      lea rax, qword [0x142c44470]
+| ; 16
+| 0x141058c15      sub rax, 0x10
+| 0x141058c19      nop dword [rax], eax
+| 0x141058c20      lea r8, qword [r8+0x10]
+| 0x141058c24      lea rax, qword [rax+0x10]
+| 0x141058c28      vmovdqu xmm0, xmmword [r8]
+| 0x141058c2d      vmovdqu xmm1, xmmword [rax]
+| 0x141058c31      vpcmpistri xmm0, xmm1, 0x18
+| 0x141058c37      jnbe 0x141058c20
+| 0x141058c39      jb 0x141058cd4
+| 0x141058c3f      mov ebx, dword [rbx]
+| 0x141058c41      xor ecx, ecx
+| 0x141058c43      call fcn.1428ae3a0
+| 0x141058c48      mov dword [var_5fah], 0xffff
+| ; 348
+| 0x141058c50      mov ecx, 0x15c
+| 0x141058c55      mov word [var_5fch], cx
+| 0x141058c5a      mov dword [var_600h], eax
+| 0x141058c5e      lea rcx, qword [var_600h]
+| 0x141058c63      call fcn.140065650
+| 0x141058c68      mov byte [var_608h], r14b
+| 0x141058c6d      mov dword [var_4f8h], ebx
+| 0x141058c70      mov rax, qword [var_600h]
+| 0x141058c75      mov qword [var_3b8h], rax
+| 0x141058c7c      movzx eax, word [var_5f8h]
+| 0x141058c81      mov word [var_3b0h], ax
+| 0x141058c88      mov qword [var_618h], rsi
+| 0x141058c8d      lea rax, qword [var_4f8h]
+| 0x141058c91      mov qword [var_620h], rax
+| 0x141058c96      lea rax, qword [var_3b8h]
+| 0x141058c9d      mov qword [var_628h], rax
+| 0x141058ca2      mov r9b, 0x01
+| 0x141058ca5      xor r8d, r8d
+| 0x141058ca8      lea rdx, qword [var_608h]
+| 0x141058cad      lea rcx, qword [var_500h]
+| 0x141058cb1      call fcn.141081cd0
+| 0x141058cb6      mov dword [rdi], r14d
+| 0x141058cb9      lea rax, qword [var_500h]
+| 0x141058cbd      cmp rdi, rax
+| 0x141058cc0      jz 0x14105bb4a
+| 0x141058cc6      mov eax, dword [var_500h]
+| 0x141058cc9      mov dword [rdi], eax
+| 0x141058ccb      mov dword [var_500h], r14d
+| 0x141058ccf      jmp 0x14105bb4a
+| 0x141058cd4      add rdx, 0xfffffffffffffff4
+| 0x141058cd8      lea rax, qword [0x142c44500]
+| ; 16
+| 0x141058cdf      sub rax, 0x10
+| 0x141058ce3      nop dword [rax], eax
+| 0x141058ce7      nop word [rax+rax*1], ax
+| 0x141058cf0      lea rdx, qword [rdx+0x10]
+| 0x141058cf4      lea rax, qword [rax+0x10]
+| 0x141058cf8      vmovdqu xmm0, xmmword [rdx]
+| 0x141058cfc      vmovdqu xmm1, xmmword [rax]
+| 0x141058d00      vpcmpistri xmm0, xmm1, 0x18
+| 0x141058d06      jnbe 0x141058cf0
+| 0x141058d08      jb 0x14105ba9b
+| 0x141058d0e      mov ebx, dword [rbx]
+| 0x141058d10      xor ecx, ecx
+| 0x141058d12      call fcn.1428ae3a0
+| 0x141058d17      mov dword [var_5fah], 0xffff
+| ; 390
+| 0x141058d1f      mov ecx, 0x186
+| 0x141058d24      mov word [var_5fch], cx
+| 0x141058d29      mov dword [var_600h], eax
+| 0x141058d2d      lea rcx, qword [var_600h]
+| 0x141058d32      call fcn.140065650
+| 0x141058d37      mov byte [var_608h], r14b
+| 0x141058d3c      mov dword [var_4f4h], ebx
+| 0x141058d3f      mov rax, qword [var_600h]
+| 0x141058d44      mov qword [var_3a8h], rax
+| 0x141058d4b      movzx eax, word [var_5f8h]
+| 0x141058d50      mov word [var_3a0h], ax
+| 0x141058d57      mov qword [var_618h], rsi
+| 0x141058d5c      lea rax, qword [var_4f4h]
+| 0x141058d60      mov qword [var_620h], rax
+| 0x141058d65      lea rax, qword [var_3a8h]
+| 0x141058d6c      mov qword [var_628h], rax
+| 0x141058d71      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141058d74      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141058d77      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141058d7c      lea rcx, qword [var_5e8h]
+| 0x141058d81      call fcn.141088ad0
+| 0x141058d86      mov dword [rdi], r14d
+| 0x141058d89      lea rax, qword [var_5e8h]
+| 0x141058d8e      cmp rdi, rax
+| 0x141058d91      jz 0x14105bb4a
+| 0x141058d97      mov eax, dword [var_5e8h]
+| 0x141058d9b      mov dword [rdi], eax
+| 0x141058d9d      mov dword [var_5e8h], r14d
+| 0x141058da2      jmp 0x14105bb4a
+| ; 0xf
+| ; 15
+| 0x141058da7      cmp eax, 0x0f
+| 0x141058daa      jnz 0x1410590ab
+| 0x141058db0      lea r8, qword [rdx-0x0c]
+| 0x141058db4      lea rax, qword [0x142c44428]
+| ; 16
+| 0x141058dbb      sub rax, 0x10
+| 0x141058dbf      nop
+| 0x141058dc0      lea r8, qword [r8+0x10]
+| 0x141058dc4      lea rax, qword [rax+0x10]
+| 0x141058dc8      vmovdqu xmm0, xmmword [r8]
+| 0x141058dcd      vmovdqu xmm1, xmmword [rax]
+| 0x141058dd1      vpcmpistri xmm0, xmm1, 0x18
+| 0x141058dd7      jnbe 0x141058dc0
+| 0x141058dd9      jb 0x141058e78
+| 0x141058ddf      mov ebx, dword [rbx]
+| 0x141058de1      xor ecx, ecx
+| 0x141058de3      call fcn.1428ae3a0
+| 0x141058de8      mov dword [var_5fah], 0xffff
+| ; 1496
+| 0x141058df0      mov ecx, 0x5d8
+| 0x141058df5      mov word [var_5fch], cx
+| 0x141058dfa      mov dword [var_600h], eax
+| 0x141058dfe      lea rcx, qword [var_600h]
+| 0x141058e03      call fcn.140065650
+| 0x141058e08      mov byte [var_608h], r14b
+| 0x141058e0d      mov dword [var_4f0h], ebx
+| 0x141058e10      mov rax, qword [var_600h]
+| 0x141058e15      mov qword [var_398h], rax
+| 0x141058e1c      movzx eax, word [var_5f8h]
+| 0x141058e21      mov word [var_390h], ax
+| 0x141058e28      mov qword [var_618h], rsi
+| 0x141058e2d      lea rax, qword [var_4f0h]
+| 0x141058e31      mov qword [var_620h], rax
+| 0x141058e36      lea rax, qword [var_398h]
+| 0x141058e3d      mov qword [var_628h], rax
+| 0x141058e42      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141058e45      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141058e48      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141058e4d      lea rcx, qword [var_5e4h]
+| 0x141058e52      call fcn.1410814a0
+| 0x141058e57      mov dword [rdi], r14d
+| 0x141058e5a      lea rax, qword [var_5e4h]
+| 0x141058e5f      cmp rdi, rax
+| 0x141058e62      jz 0x14105bb4a
+| 0x141058e68      mov eax, dword [var_5e4h]
+| 0x141058e6c      mov dword [rdi], eax
+| 0x141058e6e      mov dword [var_5e4h], r14d
+| 0x141058e73      jmp 0x14105bb4a
+| 0x141058e78      add rdx, 0xfffffffffffffff4
+| 0x141058e7c      lea rax, qword [0x142c444f0]
+| ; 16
+| 0x141058e83      sub rax, 0x10
+| 0x141058e87      nop word [rax+rax*1], ax
+| 0x141058e90      lea rdx, qword [rdx+0x10]
+| 0x141058e94      lea rax, qword [rax+0x10]
+| 0x141058e98      vmovdqu xmm0, xmmword [rdx]
+| 0x141058e9c      vmovdqu xmm1, xmmword [rax]
+| 0x141058ea0      vpcmpistri xmm0, xmm1, 0x18
+| 0x141058ea6      jnbe 0x141058e90
+| 0x141058ea8      jb 0x141058f47
+| 0x141058eae      mov ebx, dword [rbx]
+| 0x141058eb0      xor ecx, ecx
+| 0x141058eb2      call fcn.1428ae3a0
+| 0x141058eb7      mov dword [var_5fah], 0xffff
+| ; 179
+| 0x141058ebf      mov ecx, 0xb3
+| 0x141058ec4      mov word [var_5fch], cx
+| 0x141058ec9      mov dword [var_600h], eax
+| 0x141058ecd      lea rcx, qword [var_600h]
+| 0x141058ed2      call fcn.140065650
+| 0x141058ed7      mov byte [var_608h], r14b
+| 0x141058edc      mov dword [var_4ech], ebx
+| 0x141058edf      mov rax, qword [var_600h]
+| 0x141058ee4      mov qword [var_388h], rax
+| 0x141058eeb      movzx eax, word [var_5f8h]
+| 0x141058ef0      mov word [var_380h], ax
+| 0x141058ef7      mov qword [var_618h], rsi
+| 0x141058efc      lea rax, qword [var_4ech]
+| 0x141058f00      mov qword [var_620h], rax
+| 0x141058f05      lea rax, qword [var_388h]
+| 0x141058f0c      mov qword [var_628h], rax
+| 0x141058f11      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141058f14      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141058f17      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141058f1c      lea rcx, qword [var_5e0h]
+| 0x141058f21      call fcn.14107e880
+| 0x141058f26      mov dword [rdi], r14d
+| 0x141058f29      lea rax, qword [var_5e0h]
+| 0x141058f2e      cmp rdi, rax
+| 0x141058f31      jz 0x14105bb4a
+| 0x141058f37      mov eax, dword [var_5e0h]
+| 0x141058f3b      mov dword [rdi], eax
+| 0x141058f3d      mov dword [var_5e0h], r14d
+| 0x141058f42      jmp 0x14105bb4a
+| 0x141058f47      lea rdx, qword [0x142c447d0]
+| 0x141058f4e      lea rcx, qword [var_5f0h]
+| 0x141058f53      call fcn.14005c010
+| 0x141058f58      test al, al
+| 0x141058f5a      jz 0x141058ff9
+| 0x141058f60      mov ebx, dword [rbx]
+| 0x141058f62      xor ecx, ecx
+| 0x141058f64      call fcn.1428ae3a0
+| 0x141058f69      mov dword [var_5fah], 0xffff
+| ; 1554
+| 0x141058f71      mov ecx, 0x612
+| 0x141058f76      mov word [var_5fch], cx
+| 0x141058f7b      mov dword [var_600h], eax
+| 0x141058f7f      lea rcx, qword [var_600h]
+| 0x141058f84      call fcn.140065650
+| 0x141058f89      mov byte [var_608h], r14b
+| 0x141058f8e      mov dword [var_4e8h], ebx
+| 0x141058f91      mov rax, qword [var_600h]
+| 0x141058f96      mov qword [var_378h], rax
+| 0x141058f9d      movzx eax, word [var_5f8h]
+| 0x141058fa2      mov word [var_370h], ax
+| 0x141058fa9      mov qword [var_618h], rsi
+| 0x141058fae      lea rax, qword [var_4e8h]
+| 0x141058fb2      mov qword [var_620h], rax
+| 0x141058fb7      lea rax, qword [var_378h]
+| 0x141058fbe      mov qword [var_628h], rax
+| 0x141058fc3      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141058fc6      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141058fc9      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141058fce      lea rcx, qword [var_5dch]
+| 0x141058fd3      call fcn.141089890
+| 0x141058fd8      mov dword [rdi], r14d
+| 0x141058fdb      lea rax, qword [var_5dch]
+| 0x141058fe0      cmp rdi, rax
+| 0x141058fe3      jz 0x14105bb4a
+| 0x141058fe9      mov eax, dword [var_5dch]
+| 0x141058fed      mov dword [rdi], eax
+| 0x141058fef      mov dword [var_5dch], r14d
+| 0x141058ff4      jmp 0x14105bb4a
+| 0x141058ff9      lea rdx, qword [0x142c44988]
+| 0x141059000      lea rcx, qword [var_5f0h]
+| 0x141059005      call fcn.14005c010
+| 0x14105900a      test al, al
+| 0x14105900c      jz 0x14105ba9b
+| 0x141059012      mov ebx, dword [rbx]
+| 0x141059014      xor ecx, ecx
+| 0x141059016      call fcn.1428ae3a0
+| 0x14105901b      mov dword [var_5fah], 0xffff
+| ; 1810
+| 0x141059023      mov ecx, 0x712
+| 0x141059028      mov word [var_5fch], cx
+| 0x14105902d      mov dword [var_600h], eax
+| 0x141059031      lea rcx, qword [var_600h]
+| 0x141059036      call fcn.140065650
+| 0x14105903b      mov byte [var_608h], r14b
+| 0x141059040      mov dword [var_4e4h], ebx
+| 0x141059043      mov rax, qword [var_600h]
+| 0x141059048      mov qword [var_368h], rax
+| 0x14105904f      movzx eax, word [var_5f8h]
+| 0x141059054      mov word [var_360h], ax
+| 0x14105905b      mov qword [var_618h], rsi
+| 0x141059060      lea rax, qword [var_4e4h]
+| 0x141059064      mov qword [var_620h], rax
+| 0x141059069      lea rax, qword [var_368h]
+| 0x141059070      mov qword [var_628h], rax
+| 0x141059075      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059078      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105907b      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141059080      lea rcx, qword [var_5d8h]
+| 0x141059085      call fcn.1410806c0
+| 0x14105908a      mov dword [rdi], r14d
+| 0x14105908d      lea rax, qword [var_5d8h]
+| 0x141059092      cmp rdi, rax
+| 0x141059095      jz 0x14105bb4a
+| 0x14105909b      mov eax, dword [var_5d8h]
+| 0x14105909f      mov dword [rdi], eax
+| 0x1410590a1      mov dword [var_5d8h], r14d
+| 0x1410590a6      jmp 0x14105bb4a
+| ; 23
+| 0x1410590ab      cmp eax, 0x17
+| 0x1410590ae      jnz 0x141059491
+| 0x1410590b4      lea r8, qword [rdx-0x0c]
+| 0x1410590b8      lea rax, qword [0x142c44438]
+| ; 16
+| 0x1410590bf      sub rax, 0x10
+| 0x1410590c3      lea r8, qword [r8+0x10]
+| 0x1410590c7      lea rax, qword [rax+0x10]
+| 0x1410590cb      vmovdqu xmm0, xmmword [r8]
+| 0x1410590d0      vmovdqu xmm1, xmmword [rax]
+| 0x1410590d4      vpcmpistri xmm0, xmm1, 0x18
+| 0x1410590da      jnbe 0x1410590c3
+| 0x1410590dc      jb 0x14105917b
+| 0x1410590e2      mov ebx, dword [rbx]
+| 0x1410590e4      xor ecx, ecx
+| 0x1410590e6      call fcn.1428ae3a0
+| 0x1410590eb      mov dword [var_5fah], 0xffff
+| ; 1339
+| 0x1410590f3      mov ecx, 0x53b
+| 0x1410590f8      mov word [var_5fch], cx
+| 0x1410590fd      mov dword [var_600h], eax
+| 0x141059101      lea rcx, qword [var_600h]
+| 0x141059106      call fcn.140065650
+| 0x14105910b      mov byte [var_608h], r14b
+| 0x141059110      mov dword [var_4e0h], ebx
+| 0x141059113      mov rax, qword [var_600h]
+| 0x141059118      mov qword [var_358h], rax
+| 0x14105911f      movzx eax, word [var_5f8h]
+| 0x141059124      mov word [var_350h], ax
+| 0x14105912b      mov qword [var_618h], rsi
+| 0x141059130      lea rax, qword [var_4e0h]
+| 0x141059134      mov qword [var_620h], rax
+| 0x141059139      lea rax, qword [var_358h]
+| 0x141059140      mov qword [var_628h], rax
+| 0x141059145      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059148      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105914b      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141059150      lea rcx, qword [var_5d4h]
+| 0x141059155      call fcn.141087fd0
+| 0x14105915a      mov dword [rdi], r14d
+| 0x14105915d      lea rax, qword [var_5d4h]
+| 0x141059162      cmp rdi, rax
+| 0x141059165      jz 0x14105bb4a
+| 0x14105916b      mov eax, dword [var_5d4h]
+| 0x14105916f      mov dword [rdi], eax
+| 0x141059171      mov dword [var_5d4h], r14d
+| 0x141059176      jmp 0x14105bb4a
+| 0x14105917b      lea r8, qword [rdx-0x0c]
+| 0x14105917f      lea rax, qword [0x142c44598]
+| ; 16
+| 0x141059186      sub rax, 0x10
+| 0x14105918a      nop word [rax+rax*1], ax
+| 0x141059190      lea r8, qword [r8+0x10]
+| 0x141059194      lea rax, qword [rax+0x10]
+| 0x141059198      vmovdqu xmm0, xmmword [r8]
+| 0x14105919d      vmovdqu xmm1, xmmword [rax]
+| 0x1410591a1      vpcmpistri xmm0, xmm1, 0x18
+| 0x1410591a7      jnbe 0x141059190
+| 0x1410591a9      jb 0x141059248
+| 0x1410591af      mov ebx, dword [rbx]
+| 0x1410591b1      xor ecx, ecx
+| 0x1410591b3      call fcn.1428ae3a0
+| 0x1410591b8      mov dword [var_5fah], 0xffff
+| ; 1529
+| 0x1410591c0      mov ecx, 0x5f9
+| 0x1410591c5      mov word [var_5fch], cx
+| 0x1410591ca      mov dword [var_600h], eax
+| 0x1410591ce      lea rcx, qword [var_600h]
+| 0x1410591d3      call fcn.140065650
+| 0x1410591d8      mov byte [var_608h], r14b
+| 0x1410591dd      mov dword [var_4dch], ebx
+| 0x1410591e0      mov rax, qword [var_600h]
+| 0x1410591e5      mov qword [var_348h], rax
+| 0x1410591ec      movzx eax, word [var_5f8h]
+| 0x1410591f1      mov word [var_340h], ax
+| 0x1410591f8      mov qword [var_618h], rsi
+| 0x1410591fd      lea rax, qword [var_4dch]
+| 0x141059201      mov qword [var_620h], rax
+| 0x141059206      lea rax, qword [var_348h]
+| 0x14105920d      mov qword [var_628h], rax
+| 0x141059212      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059215      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059218      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105921d      lea rcx, qword [var_5d0h]
+| 0x141059222      call fcn.141081a10
+| 0x141059227      mov dword [rdi], r14d
+| 0x14105922a      lea rax, qword [var_5d0h]
+| 0x14105922f      cmp rdi, rax
+| 0x141059232      jz 0x14105bb4a
+| 0x141059238      mov eax, dword [var_5d0h]
+| 0x14105923c      mov dword [rdi], eax
+| 0x14105923e      mov dword [var_5d0h], r14d
+| 0x141059243      jmp 0x14105bb4a
+| 0x141059248      lea r8, qword [rdx-0x0c]
+| 0x14105924c      lea rax, qword [0x142c446f0]
+| ; 16
+| 0x141059253      sub rax, 0x10
+| 0x141059257      nop word [rax+rax*1], ax
+| 0x141059260      lea r8, qword [r8+0x10]
+| 0x141059264      lea rax, qword [rax+0x10]
+| 0x141059268      vmovdqu xmm0, xmmword [r8]
+| 0x14105926d      vmovdqu xmm1, xmmword [rax]
+| 0x141059271      vpcmpistri xmm0, xmm1, 0x18
+| 0x141059277      jnbe 0x141059260
+| 0x141059279      jb 0x141059318
+| 0x14105927f      mov ebx, dword [rbx]
+| 0x141059281      xor ecx, ecx
+| 0x141059283      call fcn.1428ae3a0
+| 0x141059288      mov dword [var_5fah], 0xffff
+| ; 801
+| 0x141059290      mov ecx, 0x321
+| 0x141059295      mov word [var_5fch], cx
+| 0x14105929a      mov dword [var_600h], eax
+| 0x14105929e      lea rcx, qword [var_600h]
+| 0x1410592a3      call fcn.140065650
+| 0x1410592a8      mov byte [var_608h], r14b
+| 0x1410592ad      mov dword [var_4d8h], ebx
+| 0x1410592b0      mov rax, qword [var_600h]
+| 0x1410592b5      mov qword [var_338h], rax
+| 0x1410592bc      movzx eax, word [var_5f8h]
+| 0x1410592c1      mov word [var_330h], ax
+| 0x1410592c8      mov qword [var_618h], rsi
+| 0x1410592cd      lea rax, qword [var_4d8h]
+| 0x1410592d1      mov qword [var_620h], rax
+| 0x1410592d6      lea rax, qword [var_338h]
+| 0x1410592dd      mov qword [var_628h], rax
+| 0x1410592e2      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x1410592e5      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x1410592e8      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x1410592ed      lea rcx, qword [var_5cch]
+| 0x1410592f2      call fcn.141084350
+| 0x1410592f7      mov dword [rdi], r14d
+| 0x1410592fa      lea rax, qword [var_5cch]
+| 0x1410592ff      cmp rdi, rax
+| 0x141059302      jz 0x14105bb4a
+| 0x141059308      mov eax, dword [var_5cch]
+| 0x14105930c      mov dword [rdi], eax
+| 0x14105930e      mov dword [var_5cch], r14d
+| 0x141059313      jmp 0x14105bb4a
+| 0x141059318      add rdx, 0xfffffffffffffff4
+| 0x14105931c      lea rax, qword [0x142c44760]
+| ; 16
+| 0x141059323      sub rax, 0x10
+| 0x141059327      nop word [rax+rax*1], ax
+| 0x141059330      lea rdx, qword [rdx+0x10]
+| 0x141059334      lea rax, qword [rax+0x10]
+| 0x141059338      vmovdqu xmm0, xmmword [rdx]
+| 0x14105933c      vmovdqu xmm1, xmmword [rax]
+| 0x141059340      vpcmpistri xmm0, xmm1, 0x18
+| 0x141059346      jnbe 0x141059330
+| 0x141059348      jb 0x1410593e3
+| 0x14105934e      mov ebx, dword [rbx]
+| 0x141059350      xor ecx, ecx
+| 0x141059352      call fcn.1428ae3a0
+| 0x141059357      mov dword [var_5fah], 0xffff
+| ; 1586
+| 0x14105935f      mov ecx, 0x632
+| 0x141059364      mov word [var_5fch], cx
+| 0x141059369      mov dword [var_600h], eax
+| 0x14105936d      lea rcx, qword [var_600h]
+| 0x141059372      call fcn.140065650
+| 0x141059377      mov byte [var_608h], r14b
+| 0x14105937c      mov dword [var_4d4h], ebx
+| 0x14105937f      mov rax, qword [var_600h]
+| 0x141059384      mov qword [var_328h], rax
+| 0x14105938b      movzx eax, word [var_5f8h]
+| 0x141059390      mov word [var_320h], ax
+| 0x141059397      mov qword [var_618h], rsi
+| 0x14105939c      lea rax, qword [var_4d4h]
+| 0x1410593a0      mov qword [var_620h], rax
+| 0x1410593a5      lea rax, qword [var_328h]
+| 0x1410593ac      mov qword [var_628h], rax
+| 0x1410593b1      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x1410593b4      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x1410593b7      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x1410593bc      lea rcx, qword [var_5c8h]
+| 0x1410593c0      call fcn.1410827d0
+| 0x1410593c5      mov dword [rdi], r14d
+| 0x1410593c8      lea rax, qword [var_5c8h]
+| 0x1410593cc      cmp rdi, rax
+| 0x1410593cf      jz 0x14105bb4a
+| 0x1410593d5      mov eax, dword [var_5c8h]
+| 0x1410593d8      mov dword [rdi], eax
+| 0x1410593da      mov dword [var_5c8h], r14d
+| 0x1410593de      jmp 0x14105bb4a
+| 0x1410593e3      lea rdx, qword [0x142c448a0]
+| 0x1410593ea      lea rcx, qword [var_5f0h]
+| 0x1410593ef      call fcn.14005c010
+| 0x1410593f4      test al, al
+| 0x1410593f6      jz 0x14105ba9b
+| 0x1410593fc      mov ebx, dword [rbx]
+| 0x1410593fe      xor ecx, ecx
+| 0x141059400      call fcn.1428ae3a0
+| 0x141059405      mov dword [var_5fah], 0xffff
+| ; 1742
+| 0x14105940d      mov ecx, 0x6ce
+| 0x141059412      mov word [var_5fch], cx
+| 0x141059417      mov dword [var_600h], eax
+| 0x14105941b      lea rcx, qword [var_600h]
+| 0x141059420      call fcn.140065650
+| 0x141059425      mov byte [var_608h], r14b
+| 0x14105942a      mov dword [var_4d0h], ebx
+| 0x14105942d      mov rax, qword [var_600h]
+| 0x141059432      mov qword [var_318h], rax
+| 0x141059439      movzx eax, word [var_5f8h]
+| 0x14105943e      mov word [var_310h], ax
+| 0x141059445      mov qword [var_618h], rsi
+| 0x14105944a      lea rax, qword [var_4d0h]
+| 0x14105944e      mov qword [var_620h], rax
+| 0x141059453      lea rax, qword [var_318h]
+| 0x14105945a      mov qword [var_628h], rax
+| 0x14105945f      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059462      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059465      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105946a      lea rcx, qword [var_5c4h]
+| 0x14105946e      call fcn.141086450
+| 0x141059473      mov dword [rdi], r14d
+| 0x141059476      lea rax, qword [var_5c4h]
+| 0x14105947a      cmp rdi, rax
+| 0x14105947d      jz 0x14105bb4a
+| 0x141059483      mov eax, dword [var_5c4h]
+| 0x141059486      mov dword [rdi], eax
+| 0x141059488      mov dword [var_5c4h], r14d
+| 0x14105948c      jmp 0x14105bb4a
+| ; 25
+| 0x141059491      cmp eax, 0x19
+| 0x141059494      jnz 0x1410596cb
+| 0x14105949a      add rdx, 0xfffffffffffffff4
+| 0x14105949e      lea rax, qword [0x142c44450]
+| ; 16
+| 0x1410594a5      sub rax, 0x10
+| 0x1410594a9      nop dword [rax], eax
+| 0x1410594b0      lea rdx, qword [rdx+0x10]
+| 0x1410594b4      lea rax, qword [rax+0x10]
+| 0x1410594b8      vmovdqu xmm0, xmmword [rdx]
+| 0x1410594bc      vmovdqu xmm1, xmmword [rax]
+| 0x1410594c0      vpcmpistri xmm0, xmm1, 0x18
+| 0x1410594c6      jnbe 0x1410594b0
+| 0x1410594c8      jb 0x141059563
+| 0x1410594ce      mov ebx, dword [rbx]
+| 0x1410594d0      xor ecx, ecx
+| 0x1410594d2      call fcn.1428ae3a0
+| 0x1410594d7      mov dword [var_5fah], 0xffff
+| 0x1410594df      mov ecx, 0x09
+| 0x1410594e4      mov word [var_5fch], cx
+| 0x1410594e9      mov dword [var_600h], eax
+| 0x1410594ed      lea rcx, qword [var_600h]
+| 0x1410594f2      call fcn.140065650
+| 0x1410594f7      mov byte [var_608h], r14b
+| 0x1410594fc      mov dword [var_4cch], ebx
+| 0x1410594ff      mov rax, qword [var_600h]
+| 0x141059504      mov qword [var_308h], rax
+| 0x14105950b      movzx eax, word [var_5f8h]
+| 0x141059510      mov word [var_300h], ax
+| 0x141059517      mov qword [var_618h], rsi
+| 0x14105951c      lea rax, qword [var_4cch]
+| 0x141059520      mov qword [var_620h], rax
+| 0x141059525      lea rax, qword [var_308h]
+| 0x14105952c      mov qword [var_628h], rax
+| 0x141059531      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059534      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059537      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105953c      lea rcx, qword [var_5c0h]
+| 0x141059540      call fcn.141088d90
+| 0x141059545      mov dword [rdi], r14d
+| 0x141059548      lea rax, qword [var_5c0h]
+| 0x14105954c      cmp rdi, rax
+| 0x14105954f      jz 0x14105bb4a
+| 0x141059555      mov eax, dword [var_5c0h]
+| 0x141059558      mov dword [rdi], eax
+| 0x14105955a      mov dword [var_5c0h], r14d
+| 0x14105955e      jmp 0x14105bb4a
+| 0x141059563      lea rdx, qword [0x142c447e0]
+| 0x14105956a      lea rcx, qword [var_5f0h]
+| 0x14105956f      call fcn.14005c010
+| 0x141059574      test al, al
+| 0x141059576      jz 0x141059617
+| 0x14105957c      mov ebx, dword [rbx]
+| 0x14105957e      xor ecx, ecx
+| 0x141059580      call fcn.1428ae3a0
+| 0x141059585      mov dword [var_5fah], 0xffff
+| ; 1627
+| 0x14105958d      mov ecx, 0x65b
+| 0x141059592      mov word [var_5fch], cx
+| 0x141059597      mov dword [var_600h], eax
+| 0x14105959b      lea rcx, qword [var_600h]
+| 0x1410595a0      call fcn.140065650
+| 0x1410595a5      mov byte [var_608h], r14b
+| 0x1410595aa      mov dword [var_4c8h], ebx
+| 0x1410595b0      mov rax, qword [var_600h]
+| 0x1410595b5      mov qword [var_2f8h], rax
+| 0x1410595bc      movzx eax, word [var_5f8h]
+| 0x1410595c1      mov word [var_2f0h], ax
+| 0x1410595c8      mov qword [var_618h], rsi
+| 0x1410595cd      lea rax, qword [var_4c8h]
+| 0x1410595d4      mov qword [var_620h], rax
+| 0x1410595d9      lea rax, qword [var_2f8h]
+| 0x1410595e0      mov qword [var_628h], rax
+| 0x1410595e5      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x1410595e8      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x1410595eb      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x1410595f0      lea rcx, qword [var_5bch]
+| 0x1410595f4      call fcn.1410832d0
+| 0x1410595f9      mov dword [rdi], r14d
+| 0x1410595fc      lea rax, qword [var_5bch]
+| 0x141059600      cmp rdi, rax
+| 0x141059603      jz 0x14105bb4a
+| 0x141059609      mov eax, dword [var_5bch]
+| 0x14105960c      mov dword [rdi], eax
+| 0x14105960e      mov dword [var_5bch], r14d
+| 0x141059612      jmp 0x14105bb4a
+| 0x141059617      lea rdx, qword [0x142c44930]
+| 0x14105961e      lea rcx, qword [var_5f0h]
+| 0x141059623      call fcn.14005c010
+| 0x141059628      test al, al
+| 0x14105962a      jz 0x14105ba9b
+| 0x141059630      mov ebx, dword [rbx]
+| 0x141059632      xor ecx, ecx
+| 0x141059634      call fcn.1428ae3a0
+| 0x141059639      mov dword [var_5fah], 0xffff
+| ; 1793
+| 0x141059641      mov ecx, 0x701
+| 0x141059646      mov word [var_5fch], cx
+| 0x14105964b      mov dword [var_600h], eax
+| 0x14105964f      lea rcx, qword [var_600h]
+| 0x141059654      call fcn.140065650
+| 0x141059659      mov byte [var_608h], r14b
+| 0x14105965e      mov dword [var_4c4h], ebx
+| 0x141059664      mov rax, qword [var_600h]
+| 0x141059669      mov qword [var_2e8h], rax
+| 0x141059670      movzx eax, word [var_5f8h]
+| 0x141059675      mov word [var_2e0h], ax
+| 0x14105967c      mov qword [var_618h], rsi
+| 0x141059681      lea rax, qword [var_4c4h]
+| 0x141059688      mov qword [var_620h], rax
+| 0x14105968d      lea rax, qword [var_2e8h]
+| 0x141059694      mov qword [var_628h], rax
+| 0x141059699      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105969c      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105969f      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x1410596a4      lea rcx, qword [var_5b8h]
+| 0x1410596a8      call fcn.141081f90
+| 0x1410596ad      mov dword [rdi], r14d
+| 0x1410596b0      lea rax, qword [var_5b8h]
+| 0x1410596b4      cmp rdi, rax
+| 0x1410596b7      jz 0x14105bb4a
+| 0x1410596bd      mov eax, dword [var_5b8h]
+| 0x1410596c0      mov dword [rdi], eax
+| 0x1410596c2      mov dword [var_5b8h], r14d
+| 0x1410596c6      jmp 0x14105bb4a
+| ; 21
+| 0x1410596cb      cmp eax, 0x15
+| 0x1410596ce      jnz 0x141059a01
+| 0x1410596d4      add rdx, 0xfffffffffffffff4
+| 0x1410596d8      lea rax, qword [0x142c44480]
+| ; 16
+| 0x1410596df      sub rax, 0x10
+| 0x1410596e3      nop dword [rax], eax
+| 0x1410596e7      nop word [rax+rax*1], ax
+| 0x1410596f0      lea rdx, qword [rdx+0x10]
+| 0x1410596f4      lea rax, qword [rax+0x10]
+| 0x1410596f8      vmovdqu xmm0, xmmword [rdx]
+| 0x1410596fc      vmovdqu xmm1, xmmword [rax]
+| 0x141059700      vpcmpistri xmm0, xmm1, 0x18
+| 0x141059706      jnbe 0x1410596f0
+| 0x141059708      jb 0x1410597a9
+| 0x14105970e      mov ebx, dword [rbx]
+| 0x141059710      xor ecx, ecx
+| 0x141059712      call fcn.1428ae3a0
+| 0x141059717      mov dword [var_5fah], 0xffff
+| ; 456
+| 0x14105971f      mov ecx, 0x1c8
+| 0x141059724      mov word [var_5fch], cx
+| 0x141059729      mov dword [var_600h], eax
+| 0x14105972d      lea rcx, qword [var_600h]
+| 0x141059732      call fcn.140065650
+| 0x141059737      mov byte [var_608h], r14b
+| 0x14105973c      mov dword [var_4c0h], ebx
+| 0x141059742      mov rax, qword [var_600h]
+| 0x141059747      mov qword [var_2d8h], rax
+| 0x14105974e      movzx eax, word [var_5f8h]
+| 0x141059753      mov word [var_2d0h], ax
+| 0x14105975a      mov qword [var_618h], rsi
+| 0x14105975f      lea rax, qword [var_4c0h]
+| 0x141059766      mov qword [var_620h], rax
+| 0x14105976b      lea rax, qword [var_2d8h]
+| 0x141059772      mov qword [var_628h], rax
+| 0x141059777      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105977a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105977d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141059782      lea rcx, qword [var_5b4h]
+| 0x141059786      call fcn.14107fbc0
+| 0x14105978b      mov dword [rdi], r14d
+| 0x14105978e      lea rax, qword [var_5b4h]
+| 0x141059792      cmp rdi, rax
+| 0x141059795      jz 0x14105bb4a
+| 0x14105979b      mov eax, dword [var_5b4h]
+| 0x14105979e      mov dword [rdi], eax
+| 0x1410597a0      mov dword [var_5b4h], r14d
+| 0x1410597a4      jmp 0x14105bb4a
+| 0x1410597a9      lea rdx, qword [0x142c44778]
+| 0x1410597b0      lea rcx, qword [var_5f0h]
+| 0x1410597b5      call fcn.14005c010
+| 0x1410597ba      test al, al
+| 0x1410597bc      jz 0x14105985d
+| 0x1410597c2      mov ebx, dword [rbx]
+| 0x1410597c4      xor ecx, ecx
+| 0x1410597c6      call fcn.1428ae3a0
+| 0x1410597cb      mov dword [var_5fah], 0xffff
+| ; 1633
+| 0x1410597d3      mov ecx, 0x661
+| 0x1410597d8      mov word [var_5fch], cx
+| 0x1410597dd      mov dword [var_600h], eax
+| 0x1410597e1      lea rcx, qword [var_600h]
+| 0x1410597e6      call fcn.140065650
+| 0x1410597eb      mov byte [var_608h], r14b
+| 0x1410597f0      mov dword [var_4bch], ebx
+| 0x1410597f6      mov rax, qword [var_600h]
+| 0x1410597fb      mov qword [var_2c8h], rax
+| 0x141059802      movzx eax, word [var_5f8h]
+| 0x141059807      mov word [var_2c0h], ax
+| 0x14105980e      mov qword [var_618h], rsi
+| 0x141059813      lea rax, qword [var_4bch]
+| 0x14105981a      mov qword [var_620h], rax
+| 0x14105981f      lea rax, qword [var_2c8h]
+| 0x141059826      mov qword [var_628h], rax
+| 0x14105982b      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105982e      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059831      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141059836      lea rcx, qword [var_5b0h]
+| 0x14105983a      call fcn.141086710
+| 0x14105983f      mov dword [rdi], r14d
+| 0x141059842      lea rax, qword [var_5b0h]
+| 0x141059846      cmp rdi, rax
+| 0x141059849      jz 0x14105bb4a
+| 0x14105984f      mov eax, dword [var_5b0h]
+| 0x141059852      mov dword [rdi], eax
+| 0x141059854      mov dword [var_5b0h], r14d
+| 0x141059858      jmp 0x14105bb4a
+| 0x14105985d      lea rdx, qword [0x142c448b8]
+| 0x141059864      lea rcx, qword [var_5f0h]
+| 0x141059869      call fcn.14005c010
+| 0x14105986e      test al, al
+| 0x141059870      jz 0x141059911
+| 0x141059876      mov ebx, dword [rbx]
+| 0x141059878      xor ecx, ecx
+| 0x14105987a      call fcn.1428ae3a0
+| 0x14105987f      mov dword [var_5fah], 0xffff
+| ; 1744
+| 0x141059887      mov ecx, 0x6d0
+| 0x14105988c      mov word [var_5fch], cx
+| 0x141059891      mov dword [var_600h], eax
+| 0x141059895      lea rcx, qword [var_600h]
+| 0x14105989a      call fcn.140065650
+| 0x14105989f      mov byte [var_608h], r14b
+| 0x1410598a4      mov dword [var_4b8h], ebx
+| 0x1410598aa      mov rax, qword [var_600h]
+| 0x1410598af      mov qword [var_2b8h], rax
+| 0x1410598b6      movzx eax, word [var_5f8h]
+| 0x1410598bb      mov word [var_2b0h], ax
+| 0x1410598c2      mov qword [var_618h], rsi
+| 0x1410598c7      lea rax, qword [var_4b8h]
+| 0x1410598ce      mov qword [var_620h], rax
+| 0x1410598d3      lea rax, qword [var_2b8h]
+| 0x1410598da      mov qword [var_628h], rax
+| 0x1410598df      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x1410598e2      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x1410598e5      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x1410598ea      lea rcx, qword [var_5ach]
+| 0x1410598ee      call fcn.141082250
+| 0x1410598f3      mov dword [rdi], r14d
+| 0x1410598f6      lea rax, qword [var_5ach]
+| 0x1410598fa      cmp rdi, rax
+| 0x1410598fd      jz 0x14105bb4a
+| 0x141059903      mov eax, dword [var_5ach]
+| 0x141059906      mov dword [rdi], eax
+| 0x141059908      mov dword [var_5ach], r14d
+| 0x14105990c      jmp 0x14105bb4a
+| 0x141059911      lea rdx, qword [0x142c44908]
+| 0x141059918      lea rcx, qword [var_5f0h]
+| 0x14105991d      call fcn.14005c010
+| 0x141059922      test al, al
+| 0x141059924      jz 0x1410599c5
+| 0x14105992a      mov ebx, dword [rbx]
+| 0x14105992c      xor ecx, ecx
+| 0x14105992e      call fcn.1428ae3a0
+| 0x141059933      mov dword [var_5fah], 0xffff
+| ; 1782
+| 0x14105993b      mov ecx, 0x6f6
+| 0x141059940      mov word [var_5fch], cx
+| 0x141059945      mov dword [var_600h], eax
+| 0x141059949      lea rcx, qword [var_600h]
+| 0x14105994e      call fcn.140065650
+| 0x141059953      mov byte [var_608h], r14b
+| 0x141059958      mov dword [var_4b4h], ebx
+| 0x14105995e      mov rax, qword [var_600h]
+| 0x141059963      mov qword [var_2a8h], rax
+| 0x14105996a      movzx eax, word [var_5f8h]
+| 0x14105996f      mov word [var_2a0h], ax
+| 0x141059976      mov qword [var_618h], rsi
+| 0x14105997b      lea rax, qword [var_4b4h]
+| 0x141059982      mov qword [var_620h], rax
+| 0x141059987      lea rax, qword [var_2a8h]
+| 0x14105998e      mov qword [var_628h], rax
+| 0x141059993      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059996      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059999      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105999e      lea rcx, qword [var_5a8h]
+| 0x1410599a2      call fcn.141083010
+| 0x1410599a7      mov dword [rdi], r14d
+| 0x1410599aa      lea rax, qword [var_5a8h]
+| 0x1410599ae      cmp rdi, rax
+| 0x1410599b1      jz 0x14105bb4a
+| 0x1410599b7      mov eax, dword [var_5a8h]
+| 0x1410599ba      mov dword [rdi], eax
+| 0x1410599bc      mov dword [var_5a8h], r14d
+| 0x1410599c0      jmp 0x14105bb4a
+| 0x1410599c5      lea rdx, qword [0x142c449d8]
+| 0x1410599cc      lea rcx, qword [var_5f0h]
+| 0x1410599d1      call fcn.14005c010
+| 0x1410599d6      test al, al
+| 0x1410599d8      jz 0x14105ba9b
+| 0x1410599de      mov eax, dword [rbx]
+| 0x1410599e0      mov dword [var_4b0h], eax
+| 0x1410599e6      mov r8, rsi
+| 0x1410599e9      lea rdx, qword [var_4b0h]
+| 0x1410599f0      lea rcx, qword [var_3cch]
+| 0x1410599f7      call fcn.141092d90
+| 0x1410599fc      jmp 0x141058b1e
+| ; 17
+| 0x141059a01      cmp eax, 0x11
+| 0x141059a04      jnz 0x141059d31
+| 0x141059a0a      add rdx, 0xfffffffffffffff4
+| 0x141059a0e      lea rax, qword [0x142c44498]
+| ; 16
+| 0x141059a15      sub rax, 0x10
+| 0x141059a19      nop dword [rax], eax
+| 0x141059a20      lea rdx, qword [rdx+0x10]
+| 0x141059a24      lea rax, qword [rax+0x10]
+| 0x141059a28      vmovdqu xmm0, xmmword [rdx]
+| 0x141059a2c      vmovdqu xmm1, xmmword [rax]
+| 0x141059a30      vpcmpistri xmm0, xmm1, 0x18
+| 0x141059a36      jnbe 0x141059a20
+| 0x141059a38      jb 0x141059ad9
+| 0x141059a3e      mov ebx, dword [rbx]
+| 0x141059a40      xor ecx, ecx
+| 0x141059a42      call fcn.1428ae3a0
+| 0x141059a47      mov dword [var_5fah], 0xffff
+| ; 1293
+| 0x141059a4f      mov ecx, 0x50d
+| 0x141059a54      mov word [var_5fch], cx
+| 0x141059a59      mov dword [var_600h], eax
+| 0x141059a5d      lea rcx, qword [var_600h]
+| 0x141059a62      call fcn.140065650
+| 0x141059a67      mov byte [var_608h], r14b
+| 0x141059a6c      mov dword [var_4ach], ebx
+| 0x141059a72      mov rax, qword [var_600h]
+| 0x141059a77      mov qword [var_298h], rax
+| 0x141059a7e      movzx eax, word [var_5f8h]
+| 0x141059a83      mov word [var_290h], ax
+| 0x141059a8a      mov qword [var_618h], rsi
+| 0x141059a8f      lea rax, qword [var_4ach]
+| 0x141059a96      mov qword [var_620h], rax
+| 0x141059a9b      lea rax, qword [var_298h]
+| 0x141059aa2      mov qword [var_628h], rax
+| 0x141059aa7      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059aaa      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059aad      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141059ab2      lea rcx, qword [var_5a4h]
+| 0x141059ab6      call fcn.141088550
+| 0x141059abb      mov dword [rdi], r14d
+| 0x141059abe      lea rax, qword [var_5a4h]
+| 0x141059ac2      cmp rdi, rax
+| 0x141059ac5      jz 0x14105bb4a
+| 0x141059acb      mov eax, dword [var_5a4h]
+| 0x141059ace      mov dword [rdi], eax
+| 0x141059ad0      mov dword [var_5a4h], r14d
+| 0x141059ad4      jmp 0x14105bb4a
+| 0x141059ad9      lea rdx, qword [0x142c44800]
+| 0x141059ae0      lea rcx, qword [var_5f0h]
+| 0x141059ae5      call fcn.14005c010
+| 0x141059aea      test al, al
+| 0x141059aec      jz 0x141059b8d
+| 0x141059af2      mov ebx, dword [rbx]
+| 0x141059af4      xor ecx, ecx
+| 0x141059af6      call fcn.1428ae3a0
+| 0x141059afb      mov dword [var_5fah], 0xffff
+| ; 1721
+| 0x141059b03      mov ecx, 0x6b9
+| 0x141059b08      mov word [var_5fch], cx
+| 0x141059b0d      mov dword [var_600h], eax
+| 0x141059b11      lea rcx, qword [var_600h]
+| 0x141059b16      call fcn.140065650
+| 0x141059b1b      mov byte [var_608h], r14b
+| 0x141059b20      mov dword [var_4a8h], ebx
+| 0x141059b26      mov rax, qword [var_600h]
+| 0x141059b2b      mov qword [var_288h], rax
+| 0x141059b32      movzx eax, word [var_5f8h]
+| 0x141059b37      mov word [var_280h], ax
+| 0x141059b3e      mov qword [var_618h], rsi
+| 0x141059b43      lea rax, qword [var_4a8h]
+| 0x141059b4a      mov qword [var_620h], rax
+| 0x141059b4f      lea rax, qword [var_288h]
+| 0x141059b56      mov qword [var_628h], rax
+| 0x141059b5b      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059b5e      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059b61      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141059b66      lea rcx, qword [var_5a0h]
+| 0x141059b6a      call fcn.141080140
+| 0x141059b6f      mov dword [rdi], r14d
+| 0x141059b72      lea rax, qword [var_5a0h]
+| 0x141059b76      cmp rdi, rax
+| 0x141059b79      jz 0x14105bb4a
+| 0x141059b7f      mov eax, dword [var_5a0h]
+| 0x141059b82      mov dword [rdi], eax
+| 0x141059b84      mov dword [var_5a0h], r14d
+| 0x141059b88      jmp 0x14105bb4a
+| 0x141059b8d      lea rdx, qword [0x142c44858]
+| 0x141059b94      lea rcx, qword [var_5f0h]
+| 0x141059b99      call fcn.14005c010
+| 0x141059b9e      test al, al
+| 0x141059ba0      jz 0x141059c41
+| 0x141059ba6      mov ebx, dword [rbx]
+| 0x141059ba8      xor ecx, ecx
+| 0x141059baa      call fcn.1428ae3a0
+| 0x141059baf      mov dword [var_5fah], 0xffff
+| ; 1736
+| 0x141059bb7      mov ecx, 0x6c8
+| 0x141059bbc      mov word [var_5fch], cx
+| 0x141059bc1      mov dword [var_600h], eax
+| 0x141059bc5      lea rcx, qword [var_600h]
+| 0x141059bca      call fcn.140065650
+| 0x141059bcf      mov byte [var_608h], r14b
+| 0x141059bd4      mov dword [var_4a4h], ebx
+| 0x141059bda      mov rax, qword [var_600h]
+| 0x141059bdf      mov qword [var_278h], rax
+| 0x141059be6      movzx eax, word [var_5f8h]
+| 0x141059beb      mov word [var_270h], ax
+| 0x141059bf2      mov qword [var_618h], rsi
+| 0x141059bf7      lea rax, qword [var_4a4h]
+| 0x141059bfe      mov qword [var_620h], rax
+| 0x141059c03      lea rax, qword [var_278h]
+| 0x141059c0a      mov qword [var_628h], rax
+| 0x141059c0f      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059c12      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059c15      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141059c1a      lea rcx, qword [var_59ch]
+| 0x141059c1e      call fcn.14107eb40
+| 0x141059c23      mov dword [rdi], r14d
+| 0x141059c26      lea rax, qword [var_59ch]
+| 0x141059c2a      cmp rdi, rax
+| 0x141059c2d      jz 0x14105bb4a
+| 0x141059c33      mov eax, dword [var_59ch]
+| 0x141059c36      mov dword [rdi], eax
+| 0x141059c38      mov dword [var_59ch], r14d
+| 0x141059c3c      jmp 0x14105bb4a
+| 0x141059c41      lea rdx, qword [0x142c44870]
+| 0x141059c48      lea rcx, qword [var_5f0h]
+| 0x141059c4d      call fcn.14005c010
+| 0x141059c52      test al, al
+| 0x141059c54      jz 0x141059cf5
+| 0x141059c5a      mov ebx, dword [rbx]
+| 0x141059c5c      xor ecx, ecx
+| 0x141059c5e      call fcn.1428ae3a0
+| 0x141059c63      mov dword [var_5fah], 0xffff
+| ; 1738
+| 0x141059c6b      mov ecx, 0x6ca
+| 0x141059c70      mov word [var_5fch], cx
+| 0x141059c75      mov dword [var_600h], eax
+| 0x141059c79      lea rcx, qword [var_600h]
+| 0x141059c7e      call fcn.140065650
+| 0x141059c83      mov byte [var_608h], r14b
+| 0x141059c88      mov dword [var_4a0h], ebx
+| 0x141059c8e      mov rax, qword [var_600h]
+| 0x141059c93      mov qword [var_268h], rax
+| 0x141059c9a      movzx eax, word [var_5f8h]
+| 0x141059c9f      mov word [var_260h], ax
+| 0x141059ca6      mov qword [var_618h], rsi
+| 0x141059cab      lea rax, qword [var_4a0h]
+| 0x141059cb2      mov qword [var_620h], rax
+| 0x141059cb7      lea rax, qword [var_268h]
+| 0x141059cbe      mov qword [var_628h], rax
+| 0x141059cc3      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059cc6      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059cc9      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141059cce      lea rcx, qword [var_598h]
+| 0x141059cd2      call fcn.141089310
+| 0x141059cd7      mov dword [rdi], r14d
+| 0x141059cda      lea rax, qword [var_598h]
+| 0x141059cde      cmp rdi, rax
+| 0x141059ce1      jz 0x14105bb4a
+| 0x141059ce7      mov eax, dword [var_598h]
+| 0x141059cea      mov dword [rdi], eax
+| 0x141059cec      mov dword [var_598h], r14d
+| 0x141059cf0      jmp 0x14105bb4a
+| 0x141059cf5      lea rdx, qword [0x142c449a8]
+| 0x141059cfc      lea rcx, qword [var_5f0h]
+| 0x141059d01      call fcn.14005c010
+| 0x141059d06      test al, al
+| 0x141059d08      jz 0x14105ba9b
+| 0x141059d0e      mov eax, dword [rbx]
+| 0x141059d10      mov dword [var_49ch], eax
+| 0x141059d16      mov r8, rsi
+| 0x141059d19      lea rdx, qword [var_49ch]
+| 0x141059d20      lea rcx, qword [var_3e8h]
+| 0x141059d27      call fcn.1410937a0
+| 0x141059d2c      jmp 0x141058b1e
+| ; 18
+| 0x141059d31      cmp eax, 0x12
+| 0x141059d34      jnz 0x141059fa9
+| 0x141059d3a      lea r8, qword [rdx-0x0c]
+| 0x141059d3e      lea rax, qword [0x142c444b0]
+| ; 16
+| 0x141059d45      sub rax, 0x10
+| 0x141059d49      nop dword [rax], eax
+| 0x141059d50      lea r8, qword [r8+0x10]
+| 0x141059d54      lea rax, qword [rax+0x10]
+| 0x141059d58      vmovdqu xmm0, xmmword [r8]
+| 0x141059d5d      vmovdqu xmm1, xmmword [rax]
+| 0x141059d61      vpcmpistri xmm0, xmm1, 0x18
+| 0x141059d67      jnbe 0x141059d50
+| 0x141059d69      jb 0x141059e0a
+| 0x141059d6f      mov ebx, dword [rbx]
+| 0x141059d71      xor ecx, ecx
+| 0x141059d73      call fcn.1428ae3a0
+| 0x141059d78      mov dword [var_5fah], 0xffff
+| ; 1332
+| 0x141059d80      mov ecx, 0x534
+| 0x141059d85      mov word [var_5fch], cx
+| 0x141059d8a      mov dword [var_600h], eax
+| 0x141059d8e      lea rcx, qword [var_600h]
+| 0x141059d93      call fcn.140065650
+| 0x141059d98      mov byte [var_608h], r14b
+| 0x141059d9d      mov dword [var_498h], ebx
+| 0x141059da3      mov rax, qword [var_600h]
+| 0x141059da8      mov qword [var_258h], rax
+| 0x141059daf      movzx eax, word [var_5f8h]
+| 0x141059db4      mov word [var_250h], ax
+| 0x141059dbb      mov qword [var_618h], rsi
+| 0x141059dc0      lea rax, qword [var_498h]
+| 0x141059dc7      mov qword [var_620h], rax
+| 0x141059dcc      lea rax, qword [var_258h]
+| 0x141059dd3      mov qword [var_628h], rax
+| 0x141059dd8      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059ddb      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059dde      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141059de3      lea rcx, qword [var_594h]
+| 0x141059de7      call fcn.14107f380
+| 0x141059dec      mov dword [rdi], r14d
+| 0x141059def      lea rax, qword [var_594h]
+| 0x141059df3      cmp rdi, rax
+| 0x141059df6      jz 0x14105bb4a
+| 0x141059dfc      mov eax, dword [var_594h]
+| 0x141059dff      mov dword [rdi], eax
+| 0x141059e01      mov dword [var_594h], r14d
+| 0x141059e05      jmp 0x14105bb4a
+| 0x141059e0a      lea r8, qword [rdx-0x0c]
+| 0x141059e0e      lea rax, qword [0x142c444d8]
+| ; 16
+| 0x141059e15      sub rax, 0x10
+| 0x141059e19      nop dword [rax], eax
+| 0x141059e20      lea r8, qword [r8+0x10]
+| 0x141059e24      lea rax, qword [rax+0x10]
+| 0x141059e28      vmovdqu xmm0, xmmword [r8]
+| 0x141059e2d      vmovdqu xmm1, xmmword [rax]
+| 0x141059e31      vpcmpistri xmm0, xmm1, 0x18
+| 0x141059e37      jnbe 0x141059e20
+| 0x141059e39      jb 0x141059eda
+| 0x141059e3f      mov ebx, dword [rbx]
+| 0x141059e41      xor ecx, ecx
+| 0x141059e43      call fcn.1428ae3a0
+| 0x141059e48      mov dword [var_5fah], 0xffff
+| ; 178
+| 0x141059e50      mov ecx, 0xb2
+| 0x141059e55      mov word [var_5fch], cx
+| 0x141059e5a      mov dword [var_600h], eax
+| 0x141059e5e      lea rcx, qword [var_600h]
+| 0x141059e63      call fcn.140065650
+| 0x141059e68      mov byte [var_608h], r14b
+| 0x141059e6d      mov dword [var_494h], ebx
+| 0x141059e73      mov rax, qword [var_600h]
+| 0x141059e78      mov qword [var_248h], rax
+| 0x141059e7f      movzx eax, word [var_5f8h]
+| 0x141059e84      mov word [var_240h], ax
+| 0x141059e8b      mov qword [var_618h], rsi
+| 0x141059e90      lea rax, qword [var_494h]
+| 0x141059e97      mov qword [var_620h], rax
+| 0x141059e9c      lea rax, qword [var_248h]
+| 0x141059ea3      mov qword [var_628h], rax
+| 0x141059ea8      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059eab      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059eae      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141059eb3      lea rcx, qword [var_590h]
+| 0x141059eb7      call fcn.14107e5c0
+| 0x141059ebc      mov dword [rdi], r14d
+| 0x141059ebf      lea rax, qword [var_590h]
+| 0x141059ec3      cmp rdi, rax
+| 0x141059ec6      jz 0x14105bb4a
+| 0x141059ecc      mov eax, dword [var_590h]
+| 0x141059ecf      mov dword [rdi], eax
+| 0x141059ed1      mov dword [var_590h], r14d
+| 0x141059ed5      jmp 0x14105bb4a
+| 0x141059eda      add rdx, 0xfffffffffffffff4
+| 0x141059ede      lea rax, qword [0x142c445b0]
+| ; 16
+| 0x141059ee5      sub rax, 0x10
+| 0x141059ee9      nop dword [rax], eax
+| 0x141059ef0      lea rdx, qword [rdx+0x10]
+| 0x141059ef4      lea rax, qword [rax+0x10]
+| 0x141059ef8      vmovdqu xmm0, xmmword [rdx]
+| 0x141059efc      vmovdqu xmm1, xmmword [rax]
+| 0x141059f00      vpcmpistri xmm0, xmm1, 0x18
+| 0x141059f06      jnbe 0x141059ef0
+| 0x141059f08      jb 0x14105ba9b
+| 0x141059f0e      mov ebx, dword [rbx]
+| 0x141059f10      xor ecx, ecx
+| 0x141059f12      call fcn.1428ae3a0
+| 0x141059f17      mov dword [var_5fah], 0xffff
+| ; 1578
+| 0x141059f1f      mov ecx, 0x62a
+| 0x141059f24      mov word [var_5fch], cx
+| 0x141059f29      mov dword [var_600h], eax
+| 0x141059f2d      lea rcx, qword [var_600h]
+| 0x141059f32      call fcn.140065650
+| 0x141059f37      mov byte [var_608h], r14b
+| 0x141059f3c      mov dword [var_490h], ebx
+| 0x141059f42      mov rax, qword [var_600h]
+| 0x141059f47      mov qword [var_238h], rax
+| 0x141059f4e      movzx eax, word [var_5f8h]
+| 0x141059f53      mov word [var_230h], ax
+| 0x141059f5a      mov qword [var_618h], rsi
+| 0x141059f5f      lea rax, qword [var_490h]
+| 0x141059f66      mov qword [var_620h], rax
+| 0x141059f6b      lea rax, qword [var_238h]
+| 0x141059f72      mov qword [var_628h], rax
+| 0x141059f77      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x141059f7a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x141059f7d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x141059f82      lea rcx, qword [var_58ch]
+| 0x141059f86      call fcn.1410853d0
+| 0x141059f8b      mov dword [rdi], r14d
+| 0x141059f8e      lea rax, qword [var_58ch]
+| 0x141059f92      cmp rdi, rax
+| 0x141059f95      jz 0x14105bb4a
+| 0x141059f9b      mov eax, dword [var_58ch]
+| 0x141059f9e      mov dword [rdi], eax
+| 0x141059fa0      mov dword [var_58ch], r14d
+| 0x141059fa4      jmp 0x14105bb4a
+| ; 0xd
+| ; 13
+| 0x141059fa9      cmp eax, 0x0d
+| 0x141059fac      jnz 0x14105a149
+| 0x141059fb2      lea r8, qword [rdx-0x0c]
+| 0x141059fb6      lea rax, qword [0x142c444c8]
+| ; 16
+| 0x141059fbd      sub rax, 0x10
+| 0x141059fc1      lea r8, qword [r8+0x10]
+| 0x141059fc5      lea rax, qword [rax+0x10]
+| 0x141059fc9      vmovdqu xmm0, xmmword [r8]
+| 0x141059fce      vmovdqu xmm1, xmmword [rax]
+| 0x141059fd2      vpcmpistri xmm0, xmm1, 0x18
+| 0x141059fd8      jnbe 0x141059fc1
+| 0x141059fda      jb 0x14105a07b
+| 0x141059fe0      mov ebx, dword [rbx]
+| 0x141059fe2      xor ecx, ecx
+| 0x141059fe4      call fcn.1428ae3a0
+| 0x141059fe9      mov dword [var_5fah], 0xffff
+| ; 1841
+| 0x141059ff1      mov ecx, 0x731
+| 0x141059ff6      mov word [var_5fch], cx
+| 0x141059ffb      mov dword [var_600h], eax
+| 0x141059fff      lea rcx, qword [var_600h]
+| 0x14105a004      call fcn.140065650
+| 0x14105a009      mov byte [var_608h], r14b
+| 0x14105a00e      mov dword [var_48ch], ebx
+| 0x14105a014      mov rax, qword [var_600h]
+| 0x14105a019      mov qword [var_228h], rax
+| 0x14105a020      movzx eax, word [var_5f8h]
+| 0x14105a025      mov word [var_220h], ax
+| 0x14105a02c      mov qword [var_618h], rsi
+| 0x14105a031      lea rax, qword [var_48ch]
+| 0x14105a038      mov qword [var_620h], rax
+| 0x14105a03d      lea rax, qword [var_228h]
+| 0x14105a044      mov qword [var_628h], rax
+| 0x14105a049      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a04c      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a04f      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a054      lea rcx, qword [var_588h]
+| 0x14105a058      call fcn.141087a50
+| 0x14105a05d      mov dword [rdi], r14d
+| 0x14105a060      lea rax, qword [var_588h]
+| 0x14105a064      cmp rdi, rax
+| 0x14105a067      jz 0x14105bb4a
+| 0x14105a06d      mov eax, dword [var_588h]
+| 0x14105a070      mov dword [rdi], eax
+| 0x14105a072      mov dword [var_588h], r14d
+| 0x14105a076      jmp 0x14105bb4a
+| 0x14105a07b      add rdx, 0xfffffffffffffff4
+| 0x14105a07f      lea rax, qword [0x142c44520]
+| ; 16
+| 0x14105a086      sub rax, 0x10
+| 0x14105a08a      nop word [rax+rax*1], ax
+| 0x14105a090      lea rdx, qword [rdx+0x10]
+| 0x14105a094      lea rax, qword [rax+0x10]
+| 0x14105a098      vmovdqu xmm0, xmmword [rdx]
+| 0x14105a09c      vmovdqu xmm1, xmmword [rax]
+| 0x14105a0a0      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105a0a6      jnbe 0x14105a090
+| 0x14105a0a8      jb 0x14105ba9b
+| 0x14105a0ae      mov ebx, dword [rbx]
+| 0x14105a0b0      xor ecx, ecx
+| 0x14105a0b2      call fcn.1428ae3a0
+| 0x14105a0b7      mov dword [var_5fah], 0xffff
+| ; 1544
+| 0x14105a0bf      mov ecx, 0x608
+| 0x14105a0c4      mov word [var_5fch], cx
+| 0x14105a0c9      mov dword [var_600h], eax
+| 0x14105a0cd      lea rcx, qword [var_600h]
+| 0x14105a0d2      call fcn.140065650
+| 0x14105a0d7      mov byte [var_608h], r14b
+| 0x14105a0dc      mov dword [var_488h], ebx
+| 0x14105a0e2      mov rax, qword [var_600h]
+| 0x14105a0e7      mov qword [var_218h], rax
+| 0x14105a0ee      movzx eax, word [var_5f8h]
+| 0x14105a0f3      mov word [var_210h], ax
+| 0x14105a0fa      mov qword [var_618h], rsi
+| 0x14105a0ff      lea rax, qword [var_488h]
+| 0x14105a106      mov qword [var_620h], rax
+| 0x14105a10b      lea rax, qword [var_218h]
+| 0x14105a112      mov qword [var_628h], rax
+| 0x14105a117      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a11a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a11d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a122      lea rcx, qword [var_584h]
+| 0x14105a126      call fcn.1410811e0
+| 0x14105a12b      mov dword [rdi], r14d
+| 0x14105a12e      lea rax, qword [var_584h]
+| 0x14105a132      cmp rdi, rax
+| 0x14105a135      jz 0x14105bb4a
+| 0x14105a13b      mov eax, dword [var_584h]
+| 0x14105a13e      mov dword [rdi], eax
+| 0x14105a140      mov dword [var_584h], r14d
+| 0x14105a144      jmp 0x14105bb4a
+| ; 0xb
+| ; 11
+| 0x14105a149      cmp eax, 0x0b
+| 0x14105a14c      jnz 0x14105a46d
+| 0x14105a152      lea r8, qword [rdx-0x0c]
+| 0x14105a156      lea rax, qword [0x142c44510]
+| ; 16
+| 0x14105a15d      sub rax, 0x10
+| 0x14105a161      lea r8, qword [r8+0x10]
+| 0x14105a165      lea rax, qword [rax+0x10]
+| 0x14105a169      vmovdqu xmm0, xmmword [r8]
+| 0x14105a16e      vmovdqu xmm1, xmmword [rax]
+| 0x14105a172      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105a178      jnbe 0x14105a161
+| 0x14105a17a      jb 0x14105a21b
+| 0x14105a180      mov ebx, dword [rbx]
+| 0x14105a182      xor ecx, ecx
+| 0x14105a184      call fcn.1428ae3a0
+| 0x14105a189      mov dword [var_5fah], 0xffff
+| ; 389
+| 0x14105a191      mov ecx, 0x185
+| 0x14105a196      mov word [var_5fch], cx
+| 0x14105a19b      mov dword [var_600h], eax
+| 0x14105a19f      lea rcx, qword [var_600h]
+| 0x14105a1a4      call fcn.140065650
+| 0x14105a1a9      mov byte [var_608h], r14b
+| 0x14105a1ae      mov dword [var_484h], ebx
+| 0x14105a1b4      mov rax, qword [var_600h]
+| 0x14105a1b9      mov qword [var_208h], rax
+| 0x14105a1c0      movzx eax, word [var_5f8h]
+| 0x14105a1c5      mov word [var_200h], ax
+| 0x14105a1cc      mov qword [var_618h], rsi
+| 0x14105a1d1      lea rax, qword [var_484h]
+| 0x14105a1d8      mov qword [var_620h], rax
+| 0x14105a1dd      lea rax, qword [var_208h]
+| 0x14105a1e4      mov qword [var_628h], rax
+| 0x14105a1e9      mov r9b, 0x01
+| 0x14105a1ec      xor r8d, r8d
+| 0x14105a1ef      lea rdx, qword [var_608h]
+| 0x14105a1f4      lea rcx, qword [var_580h]
+| 0x14105a1f8      call fcn.141089e10
+| 0x14105a1fd      mov dword [rdi], r14d
+| 0x14105a200      lea rax, qword [var_580h]
+| 0x14105a204      cmp rdi, rax
+| 0x14105a207      jz 0x14105bb4a
+| 0x14105a20d      mov eax, dword [var_580h]
+| 0x14105a210      mov dword [rdi], eax
+| 0x14105a212      mov dword [var_580h], r14d
+| 0x14105a216      jmp 0x14105bb4a
+| 0x14105a21b      lea r8, qword [rdx-0x0c]
+| 0x14105a21f      lea rax, qword [0x142c44588]
+| ; 16
+| 0x14105a226      sub rax, 0x10
+| 0x14105a22a      nop word [rax+rax*1], ax
+| 0x14105a230      lea r8, qword [r8+0x10]
+| 0x14105a234      lea rax, qword [rax+0x10]
+| 0x14105a238      vmovdqu xmm0, xmmword [r8]
+| 0x14105a23d      vmovdqu xmm1, xmmword [rax]
+| 0x14105a241      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105a247      jnbe 0x14105a230
+| 0x14105a249      jb 0x14105a2ea
+| 0x14105a24f      mov ebx, dword [rbx]
+| 0x14105a251      xor ecx, ecx
+| 0x14105a253      call fcn.1428ae3a0
+| 0x14105a258      mov dword [var_5fah], 0xffff
+| ; 811
+| 0x14105a260      mov ecx, 0x32b
+| 0x14105a265      mov word [var_5fch], cx
+| 0x14105a26a      mov dword [var_600h], eax
+| 0x14105a26e      lea rcx, qword [var_600h]
+| 0x14105a273      call fcn.140065650
+| 0x14105a278      mov byte [var_608h], r14b
+| 0x14105a27d      mov dword [var_480h], ebx
+| 0x14105a283      mov rax, qword [var_600h]
+| 0x14105a288      mov qword [var_1f8h], rax
+| 0x14105a28f      movzx eax, word [var_5f8h]
+| 0x14105a294      mov word [var_1f0h], ax
+| 0x14105a29b      mov qword [var_618h], rsi
+| 0x14105a2a0      lea rax, qword [var_480h]
+| 0x14105a2a7      mov qword [var_620h], rax
+| 0x14105a2ac      lea rax, qword [var_1f8h]
+| 0x14105a2b3      mov qword [var_628h], rax
+| 0x14105a2b8      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a2bb      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a2be      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a2c3      lea rcx, qword [var_57ch]
+| 0x14105a2c7      call fcn.14107f900
+| 0x14105a2cc      mov dword [rdi], r14d
+| 0x14105a2cf      lea rax, qword [var_57ch]
+| 0x14105a2d3      cmp rdi, rax
+| 0x14105a2d6      jz 0x14105bb4a
+| 0x14105a2dc      mov eax, dword [var_57ch]
+| 0x14105a2df      mov dword [rdi], eax
+| 0x14105a2e1      mov dword [var_57ch], r14d
+| 0x14105a2e5      jmp 0x14105bb4a
+| 0x14105a2ea      add rdx, 0xfffffffffffffff4
+| 0x14105a2ee      lea rax, qword [0x142c445e0]
+| ; 16
+| 0x14105a2f5      sub rax, 0x10
+| 0x14105a2f9      nop dword [rax], eax
+| 0x14105a300      lea rdx, qword [rdx+0x10]
+| 0x14105a304      lea rax, qword [rax+0x10]
+| 0x14105a308      vmovdqu xmm0, xmmword [rdx]
+| 0x14105a30c      vmovdqu xmm1, xmmword [rax]
+| 0x14105a310      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105a316      jnbe 0x14105a300
+| 0x14105a318      jb 0x14105a3b9
+| 0x14105a31e      mov ebx, dword [rbx]
+| 0x14105a320      xor ecx, ecx
+| 0x14105a322      call fcn.1428ae3a0
+| 0x14105a327      mov dword [var_5fah], 0xffff
+| ; 632
+| 0x14105a32f      mov ecx, 0x278
+| 0x14105a334      mov word [var_5fch], cx
+| 0x14105a339      mov dword [var_600h], eax
+| 0x14105a33d      lea rcx, qword [var_600h]
+| 0x14105a342      call fcn.140065650
+| 0x14105a347      mov byte [var_608h], r14b
+| 0x14105a34c      mov dword [var_47ch], ebx
+| 0x14105a352      mov rax, qword [var_600h]
+| 0x14105a357      mov qword [var_1e8h], rax
+| 0x14105a35e      movzx eax, word [var_5f8h]
+| 0x14105a363      mov word [var_1e0h], ax
+| 0x14105a36a      mov qword [var_618h], rsi
+| 0x14105a36f      lea rax, qword [var_47ch]
+| 0x14105a376      mov qword [var_620h], rax
+| 0x14105a37b      lea rax, qword [var_1e8h]
+| 0x14105a382      mov qword [var_628h], rax
+| 0x14105a387      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a38a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a38d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a392      lea rcx, qword [var_578h]
+| 0x14105a396      call fcn.14108a0d0
+| 0x14105a39b      mov dword [rdi], r14d
+| 0x14105a39e      lea rax, qword [var_578h]
+| 0x14105a3a2      cmp rdi, rax
+| 0x14105a3a5      jz 0x14105bb4a
+| 0x14105a3ab      mov eax, dword [var_578h]
+| 0x14105a3ae      mov dword [rdi], eax
+| 0x14105a3b0      mov dword [var_578h], r14d
+| 0x14105a3b4      jmp 0x14105bb4a
+| 0x14105a3b9      lea rdx, qword [0x142c44920]
+| 0x14105a3c0      lea rcx, qword [var_5f0h]
+| 0x14105a3c5      call fcn.14005c010
+| 0x14105a3ca      test al, al
+| 0x14105a3cc      jz 0x14105ba9b
+| 0x14105a3d2      mov ebx, dword [rbx]
+| 0x14105a3d4      xor ecx, ecx
+| 0x14105a3d6      call fcn.1428ae3a0
+| 0x14105a3db      mov dword [var_5fah], 0xffff
+| ; 1792
+| 0x14105a3e3      mov ecx, 0x700
+| 0x14105a3e8      mov word [var_5fch], cx
+| 0x14105a3ed      mov dword [var_600h], eax
+| 0x14105a3f1      lea rcx, qword [var_600h]
+| 0x14105a3f6      call fcn.140065650
+| 0x14105a3fb      mov byte [var_608h], r14b
+| 0x14105a400      mov dword [var_478h], ebx
+| 0x14105a406      mov rax, qword [var_600h]
+| 0x14105a40b      mov qword [var_1d8h], rax
+| 0x14105a412      movzx eax, word [var_5f8h]
+| 0x14105a417      mov word [var_1d0h], ax
+| 0x14105a41e      mov qword [var_618h], rsi
+| 0x14105a423      lea rax, qword [var_478h]
+| 0x14105a42a      mov qword [var_620h], rax
+| 0x14105a42f      lea rax, qword [var_1d8h]
+| 0x14105a436      mov qword [var_628h], rax
+| 0x14105a43b      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a43e      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a441      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a446      lea rcx, qword [var_574h]
+| 0x14105a44a      call fcn.14107e300
+| 0x14105a44f      mov dword [rdi], r14d
+| 0x14105a452      lea rax, qword [var_574h]
+| 0x14105a456      cmp rdi, rax
+| 0x14105a459      jz 0x14105bb4a
+| 0x14105a45f      mov eax, dword [var_574h]
+| 0x14105a462      mov dword [rdi], eax
+| 0x14105a464      mov dword [var_574h], r14d
+| 0x14105a468      jmp 0x14105bb4a
+| ; 0xe
+| ; 14
+| 0x14105a46d      cmp eax, 0x0e
+| 0x14105a470      jnz 0x14105a5fd
+| 0x14105a476      add rdx, 0xfffffffffffffff4
+| 0x14105a47a      lea rax, qword [0x142c44530]
+| ; 16
+| 0x14105a481      sub rax, 0x10
+| 0x14105a485      nop word [rax+rax*1], ax
+| 0x14105a490      lea rdx, qword [rdx+0x10]
+| 0x14105a494      lea rax, qword [rax+0x10]
+| 0x14105a498      vmovdqu xmm0, xmmword [rdx]
+| 0x14105a49c      vmovdqu xmm1, xmmword [rax]
+| 0x14105a4a0      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105a4a6      jnbe 0x14105a490
+| 0x14105a4a8      jb 0x14105a549
+| 0x14105a4ae      mov ebx, dword [rbx]
+| 0x14105a4b0      xor ecx, ecx
+| 0x14105a4b2      call fcn.1428ae3a0
+| 0x14105a4b7      mov dword [var_5fah], 0xffff
+| ; 403
+| 0x14105a4bf      mov ecx, 0x193
+| 0x14105a4c4      mov word [var_5fch], cx
+| 0x14105a4c9      mov dword [var_600h], eax
+| 0x14105a4cd      lea rcx, qword [var_600h]
+| 0x14105a4d2      call fcn.140065650
+| 0x14105a4d7      mov byte [var_608h], r14b
+| 0x14105a4dc      mov dword [var_474h], ebx
+| 0x14105a4e2      mov rax, qword [var_600h]
+| 0x14105a4e7      mov qword [var_1c8h], rax
+| 0x14105a4ee      movzx eax, word [var_5f8h]
+| 0x14105a4f3      mov word [var_1c0h], ax
+| 0x14105a4fa      mov qword [var_618h], rsi
+| 0x14105a4ff      lea rax, qword [var_474h]
+| 0x14105a506      mov qword [var_620h], rax
+| 0x14105a50b      lea rax, qword [var_1c8h]
+| 0x14105a512      mov qword [var_628h], rax
+| 0x14105a517      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a51a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a51d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a522      lea rcx, qword [var_570h]
+| 0x14105a526      call fcn.14107fe80
+| 0x14105a52b      mov dword [rdi], r14d
+| 0x14105a52e      lea rax, qword [var_570h]
+| 0x14105a532      cmp rdi, rax
+| 0x14105a535      jz 0x14105bb4a
+| 0x14105a53b      mov eax, dword [var_570h]
+| 0x14105a53e      mov dword [rdi], eax
+| 0x14105a540      mov dword [var_570h], r14d
+| 0x14105a544      jmp 0x14105bb4a
+| 0x14105a549      lea rdx, qword [0x142c44998]
+| 0x14105a550      lea rcx, qword [var_5f0h]
+| 0x14105a555      call fcn.14005c010
+| 0x14105a55a      test al, al
+| 0x14105a55c      jz 0x14105ba9b
+| 0x14105a562      mov ebx, dword [rbx]
+| 0x14105a564      xor ecx, ecx
+| 0x14105a566      call fcn.1428ae3a0
+| 0x14105a56b      mov dword [var_5fah], 0xffff
+| ; 1818
+| 0x14105a573      mov ecx, 0x71a
+| 0x14105a578      mov word [var_5fch], cx
+| 0x14105a57d      mov dword [var_600h], eax
+| 0x14105a581      lea rcx, qword [var_600h]
+| 0x14105a586      call fcn.140065650
+| 0x14105a58b      mov byte [var_608h], r14b
+| 0x14105a590      mov dword [var_470h], ebx
+| 0x14105a596      mov rax, qword [var_600h]
+| 0x14105a59b      mov qword [var_1b8h], rax
+| 0x14105a5a2      movzx eax, word [var_5f8h]
+| 0x14105a5a7      mov word [var_1b0h], ax
+| 0x14105a5ae      mov qword [var_618h], rsi
+| 0x14105a5b3      lea rax, qword [var_470h]
+| 0x14105a5ba      mov qword [var_620h], rax
+| 0x14105a5bf      lea rax, qword [var_1b8h]
+| 0x14105a5c6      mov qword [var_628h], rax
+| 0x14105a5cb      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a5ce      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a5d1      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a5d6      lea rcx, qword [var_56ch]
+| 0x14105a5da      call fcn.14107ee00
+| 0x14105a5df      mov dword [rdi], r14d
+| 0x14105a5e2      lea rax, qword [var_56ch]
+| 0x14105a5e6      cmp rdi, rax
+| 0x14105a5e9      jz 0x14105bb4a
+| 0x14105a5ef      mov eax, dword [var_56ch]
+| 0x14105a5f2      mov dword [rdi], eax
+| 0x14105a5f4      mov dword [var_56ch], r14d
+| 0x14105a5f8      jmp 0x14105bb4a
+| ; 19
+| 0x14105a5fd      cmp eax, 0x13
+| 0x14105a600      jnz 0x14105a7a9
+| 0x14105a606      lea r8, qword [rdx-0x0c]
+| 0x14105a60a      lea rax, qword [0x142c44540]
+| ; 16
+| 0x14105a611      sub rax, 0x10
+| 0x14105a615      nop word [rax+rax*1], ax
+| 0x14105a620      lea r8, qword [r8+0x10]
+| 0x14105a624      lea rax, qword [rax+0x10]
+| 0x14105a628      vmovdqu xmm0, xmmword [r8]
+| 0x14105a62d      vmovdqu xmm1, xmmword [rax]
+| 0x14105a631      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105a637      jnbe 0x14105a620
+| 0x14105a639      jb 0x14105a6da
+| 0x14105a63f      mov ebx, dword [rbx]
+| 0x14105a641      xor ecx, ecx
+| 0x14105a643      call fcn.1428ae3a0
+| 0x14105a648      mov dword [var_5fah], 0xffff
+| ; 673
+| 0x14105a650      mov ecx, 0x2a1
+| 0x14105a655      mov word [var_5fch], cx
+| 0x14105a65a      mov dword [var_600h], eax
+| 0x14105a65e      lea rcx, qword [var_600h]
+| 0x14105a663      call fcn.140065650
+| 0x14105a668      mov byte [var_608h], r14b
+| 0x14105a66d      mov dword [var_46ch], ebx
+| 0x14105a673      mov rax, qword [var_600h]
+| 0x14105a678      mov qword [var_1a8h], rax
+| 0x14105a67f      movzx eax, word [var_5f8h]
+| 0x14105a684      mov word [var_1a0h], ax
+| 0x14105a68b      mov qword [var_618h], rsi
+| 0x14105a690      lea rax, qword [var_46ch]
+| 0x14105a697      mov qword [var_620h], rax
+| 0x14105a69c      lea rax, qword [var_1a8h]
+| 0x14105a6a3      mov qword [var_628h], rax
+| 0x14105a6a8      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a6ab      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a6ae      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a6b3      lea rcx, qword [var_568h]
+| 0x14105a6b7      call fcn.14107f640
+| 0x14105a6bc      mov dword [rdi], r14d
+| 0x14105a6bf      lea rax, qword [var_568h]
+| 0x14105a6c3      cmp rdi, rax
+| 0x14105a6c6      jz 0x14105bb4a
+| 0x14105a6cc      mov eax, dword [var_568h]
+| 0x14105a6cf      mov dword [rdi], eax
+| 0x14105a6d1      mov dword [var_568h], r14d
+| 0x14105a6d5      jmp 0x14105bb4a
+| 0x14105a6da      add rdx, 0xfffffffffffffff4
+| 0x14105a6de      lea rax, qword [0x142c44558]
+| ; 16
+| 0x14105a6e5      sub rax, 0x10
+| 0x14105a6e9      nop dword [rax], eax
+| 0x14105a6f0      lea rdx, qword [rdx+0x10]
+| 0x14105a6f4      lea rax, qword [rax+0x10]
+| 0x14105a6f8      vmovdqu xmm0, xmmword [rdx]
+| 0x14105a6fc      vmovdqu xmm1, xmmword [rax]
+| 0x14105a700      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105a706      jnbe 0x14105a6f0
+| 0x14105a708      jb 0x14105ba9b
+| 0x14105a70e      mov ebx, dword [rbx]
+| 0x14105a710      xor ecx, ecx
+| 0x14105a712      call fcn.1428ae3a0
+| 0x14105a717      mov dword [var_5fah], 0xffff
+| ; 705
+| 0x14105a71f      mov ecx, 0x2c1
+| 0x14105a724      mov word [var_5fch], cx
+| 0x14105a729      mov dword [var_600h], eax
+| 0x14105a72d      lea rcx, qword [var_600h]
+| 0x14105a732      call fcn.140065650
+| 0x14105a737      mov byte [var_608h], r14b
+| 0x14105a73c      mov dword [var_468h], ebx
+| 0x14105a742      mov rax, qword [var_600h]
+| 0x14105a747      mov qword [var_198h], rax
+| 0x14105a74e      movzx eax, word [var_5f8h]
+| 0x14105a753      mov word [var_190h], ax
+| 0x14105a75a      mov qword [var_618h], rsi
+| 0x14105a75f      lea rax, qword [var_468h]
+| 0x14105a766      mov qword [var_620h], rax
+| 0x14105a76b      lea rax, qword [var_198h]
+| 0x14105a772      mov qword [var_628h], rax
+| 0x14105a777      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a77a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a77d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a782      lea rcx, qword [var_564h]
+| 0x14105a786      call fcn.141089b50
+| 0x14105a78b      mov dword [rdi], r14d
+| 0x14105a78e      lea rax, qword [var_564h]
+| 0x14105a792      cmp rdi, rax
+| 0x14105a795      jz 0x14105bb4a
+| 0x14105a79b      mov eax, dword [var_564h]
+| 0x14105a79e      mov dword [rdi], eax
+| 0x14105a7a0      mov dword [var_564h], r14d
+| 0x14105a7a4      jmp 0x14105bb4a
+| ; 22
+| 0x14105a7a9      cmp eax, 0x16
+| 0x14105a7ac      jnz 0x14105ac71
+| 0x14105a7b2      lea r8, qword [rdx-0x0c]
+| 0x14105a7b6      lea rax, qword [0x142c44570]
+| ; 16
+| 0x14105a7bd      sub rax, 0x10
+| 0x14105a7c1      lea r8, qword [r8+0x10]
+| 0x14105a7c5      lea rax, qword [rax+0x10]
+| 0x14105a7c9      vmovdqu xmm0, xmmword [r8]
+| 0x14105a7ce      vmovdqu xmm1, xmmword [rax]
+| 0x14105a7d2      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105a7d8      jnbe 0x14105a7c1
+| 0x14105a7da      jb 0x14105a87b
+| 0x14105a7e0      mov ebx, dword [rbx]
+| 0x14105a7e2      xor ecx, ecx
+| 0x14105a7e4      call fcn.1428ae3a0
+| 0x14105a7e9      mov dword [var_5fah], 0xffff
+| ; 707
+| 0x14105a7f1      mov ecx, 0x2c3
+| 0x14105a7f6      mov word [var_5fch], cx
+| 0x14105a7fb      mov dword [var_600h], eax
+| 0x14105a7ff      lea rcx, qword [var_600h]
+| 0x14105a804      call fcn.140065650
+| 0x14105a809      mov byte [var_608h], r14b
+| 0x14105a80e      mov dword [var_464h], ebx
+| 0x14105a814      mov rax, qword [var_600h]
+| 0x14105a819      mov qword [var_188h], rax
+| 0x14105a820      movzx eax, word [var_5f8h]
+| 0x14105a825      mov word [var_180h], ax
+| 0x14105a82c      mov qword [var_618h], rsi
+| 0x14105a831      lea rax, qword [var_464h]
+| 0x14105a838      mov qword [var_620h], rax
+| 0x14105a83d      lea rax, qword [var_188h]
+| 0x14105a844      mov qword [var_628h], rax
+| 0x14105a849      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a84c      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a84f      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a854      lea rcx, qword [var_560h]
+| 0x14105a858      call fcn.141089050
+| 0x14105a85d      mov dword [rdi], r14d
+| 0x14105a860      lea rax, qword [var_560h]
+| 0x14105a864      cmp rdi, rax
+| 0x14105a867      jz 0x14105bb4a
+| 0x14105a86d      mov eax, dword [var_560h]
+| 0x14105a870      mov dword [rdi], eax
+| 0x14105a872      mov dword [var_560h], r14d
+| 0x14105a876      jmp 0x14105bb4a
+| 0x14105a87b      lea r8, qword [rdx-0x0c]
+| 0x14105a87f      lea rax, qword [0x142c44628]
+| ; 16
+| 0x14105a886      sub rax, 0x10
+| 0x14105a88a      nop word [rax+rax*1], ax
+| 0x14105a890      lea r8, qword [r8+0x10]
+| 0x14105a894      lea rax, qword [rax+0x10]
+| 0x14105a898      vmovdqu xmm0, xmmword [r8]
+| 0x14105a89d      vmovdqu xmm1, xmmword [rax]
+| 0x14105a8a1      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105a8a7      jnbe 0x14105a890
+| 0x14105a8a9      jb 0x14105a94a
+| 0x14105a8af      mov ebx, dword [rbx]
+| 0x14105a8b1      xor ecx, ecx
+| 0x14105a8b3      call fcn.1428ae3a0
+| 0x14105a8b8      mov dword [var_5fah], 0xffff
+| ; 552
+| 0x14105a8c0      mov ecx, 0x228
+| 0x14105a8c5      mov word [var_5fch], cx
+| 0x14105a8ca      mov dword [var_600h], eax
+| 0x14105a8ce      lea rcx, qword [var_600h]
+| 0x14105a8d3      call fcn.140065650
+| 0x14105a8d8      mov byte [var_608h], r14b
+| 0x14105a8dd      mov dword [var_460h], ebx
+| 0x14105a8e3      mov rax, qword [var_600h]
+| 0x14105a8e8      mov qword [var_178h], rax
+| 0x14105a8ef      movzx eax, word [var_5f8h]
+| 0x14105a8f4      mov word [var_170h], ax
+| 0x14105a8fb      mov qword [var_618h], rsi
+| 0x14105a900      lea rax, qword [var_460h]
+| 0x14105a907      mov qword [var_620h], rax
+| 0x14105a90c      lea rax, qword [var_178h]
+| 0x14105a913      mov qword [var_628h], rax
+| 0x14105a918      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a91b      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a91e      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a923      lea rcx, qword [var_55ch]
+| 0x14105a927      call fcn.141085690
+| 0x14105a92c      mov dword [rdi], r14d
+| 0x14105a92f      lea rax, qword [var_55ch]
+| 0x14105a933      cmp rdi, rax
+| 0x14105a936      jz 0x14105bb4a
+| 0x14105a93c      mov eax, dword [var_55ch]
+| 0x14105a93f      mov dword [rdi], eax
+| 0x14105a941      mov dword [var_55ch], r14d
+| 0x14105a945      jmp 0x14105bb4a
+| 0x14105a94a      add rdx, 0xfffffffffffffff4
+| 0x14105a94e      lea rax, qword [0x142c44640]
+| ; 16
+| 0x14105a955      sub rax, 0x10
+| 0x14105a959      nop dword [rax], eax
+| 0x14105a960      lea rdx, qword [rdx+0x10]
+| 0x14105a964      lea rax, qword [rax+0x10]
+| 0x14105a968      vmovdqu xmm0, xmmword [rdx]
+| 0x14105a96c      vmovdqu xmm1, xmmword [rax]
+| 0x14105a970      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105a976      jnbe 0x14105a960
+| 0x14105a978      jb 0x14105aa19
+| 0x14105a97e      mov ebx, dword [rbx]
+| 0x14105a980      xor ecx, ecx
+| 0x14105a982      call fcn.1428ae3a0
+| 0x14105a987      mov dword [var_5fah], 0xffff
+| ; 567
+| 0x14105a98f      mov ecx, 0x237
+| 0x14105a994      mov word [var_5fch], cx
+| 0x14105a999      mov dword [var_600h], eax
+| 0x14105a99d      lea rcx, qword [var_600h]
+| 0x14105a9a2      call fcn.140065650
+| 0x14105a9a7      mov byte [var_608h], r14b
+| 0x14105a9ac      mov dword [var_45ch], ebx
+| 0x14105a9b2      mov rax, qword [var_600h]
+| 0x14105a9b7      mov qword [var_168h], rax
+| 0x14105a9be      movzx eax, word [var_5f8h]
+| 0x14105a9c3      mov word [var_160h], ax
+| 0x14105a9ca      mov qword [var_618h], rsi
+| 0x14105a9cf      lea rax, qword [var_45ch]
+| 0x14105a9d6      mov qword [var_620h], rax
+| 0x14105a9db      lea rax, qword [var_168h]
+| 0x14105a9e2      mov qword [var_628h], rax
+| 0x14105a9e7      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105a9ea      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105a9ed      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105a9f2      lea rcx, qword [var_558h]
+| 0x14105a9f6      call fcn.1410848d0
+| 0x14105a9fb      mov dword [rdi], r14d
+| 0x14105a9fe      lea rax, qword [var_558h]
+| 0x14105aa02      cmp rdi, rax
+| 0x14105aa05      jz 0x14105bb4a
+| 0x14105aa0b      mov eax, dword [var_558h]
+| 0x14105aa0e      mov dword [rdi], eax
+| 0x14105aa10      mov dword [var_558h], r14d
+| 0x14105aa14      jmp 0x14105bb4a
+| 0x14105aa19      lea rdx, qword [0x142c44888]
+| 0x14105aa20      lea rcx, qword [var_5f0h]
+| 0x14105aa25      call fcn.14005c010
+| 0x14105aa2a      test al, al
+| 0x14105aa2c      jz 0x14105aacd
+| 0x14105aa32      mov ebx, dword [rbx]
+| 0x14105aa34      xor ecx, ecx
+| 0x14105aa36      call fcn.1428ae3a0
+| 0x14105aa3b      mov dword [var_5fah], 0xffff
+| ; 1739
+| 0x14105aa43      mov ecx, 0x6cb
+| 0x14105aa48      mov word [var_5fch], cx
+| 0x14105aa4d      mov dword [var_600h], eax
+| 0x14105aa51      lea rcx, qword [var_600h]
+| 0x14105aa56      call fcn.140065650
+| 0x14105aa5b      mov byte [var_608h], r14b
+| 0x14105aa60      mov dword [var_458h], ebx
+| 0x14105aa66      mov rax, qword [var_600h]
+| 0x14105aa6b      mov qword [var_158h], rax
+| 0x14105aa72      movzx eax, word [var_5f8h]
+| 0x14105aa77      mov word [var_150h], ax
+| 0x14105aa7e      mov qword [var_618h], rsi
+| 0x14105aa83      lea rax, qword [var_458h]
+| 0x14105aa8a      mov qword [var_620h], rax
+| 0x14105aa8f      lea rax, qword [var_158h]
+| 0x14105aa96      mov qword [var_628h], rax
+| 0x14105aa9b      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105aa9e      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105aaa1      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105aaa6      lea rcx, qword [var_554h]
+| 0x14105aaaa      call fcn.141082d50
+| 0x14105aaaf      mov dword [rdi], r14d
+| 0x14105aab2      lea rax, qword [var_554h]
+| 0x14105aab6      cmp rdi, rax
+| 0x14105aab9      jz 0x14105bb4a
+| 0x14105aabf      mov eax, dword [var_554h]
+| 0x14105aac2      mov dword [rdi], eax
+| 0x14105aac4      mov dword [var_554h], r14d
+| 0x14105aac8      jmp 0x14105bb4a
+| 0x14105aacd      lea rdx, qword [0x142c448d0]
+| 0x14105aad4      lea rcx, qword [var_5f0h]
+| 0x14105aad9      call fcn.14005c010
+| 0x14105aade      test al, al
+| 0x14105aae0      jz 0x14105ab81
+| 0x14105aae6      mov ebx, dword [rbx]
+| 0x14105aae8      xor ecx, ecx
+| 0x14105aaea      call fcn.1428ae3a0
+| 0x14105aaef      mov dword [var_5fah], 0xffff
+| ; 1752
+| 0x14105aaf7      mov ecx, 0x6d8
+| 0x14105aafc      mov word [var_5fch], cx
+| 0x14105ab01      mov dword [var_600h], eax
+| 0x14105ab05      lea rcx, qword [var_600h]
+| 0x14105ab0a      call fcn.140065650
+| 0x14105ab0f      mov byte [var_608h], r14b
+| 0x14105ab14      mov dword [var_454h], ebx
+| 0x14105ab1a      mov rax, qword [var_600h]
+| 0x14105ab1f      mov qword [var_148h], rax
+| 0x14105ab26      movzx eax, word [var_5f8h]
+| 0x14105ab2b      mov word [var_140h], ax
+| 0x14105ab32      mov qword [var_618h], rsi
+| 0x14105ab37      lea rax, qword [var_454h]
+| 0x14105ab3e      mov qword [var_620h], rax
+| 0x14105ab43      lea rax, qword [var_148h]
+| 0x14105ab4a      mov qword [var_628h], rax
+| 0x14105ab4f      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105ab52      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105ab55      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105ab5a      lea rcx, qword [var_550h]
+| 0x14105ab5e      call fcn.1410874d0
+| 0x14105ab63      mov dword [rdi], r14d
+| 0x14105ab66      lea rax, qword [var_550h]
+| 0x14105ab6a      cmp rdi, rax
+| 0x14105ab6d      jz 0x14105bb4a
+| 0x14105ab73      mov eax, dword [var_550h]
+| 0x14105ab76      mov dword [rdi], eax
+| 0x14105ab78      mov dword [var_550h], r14d
+| 0x14105ab7c      jmp 0x14105bb4a
+| 0x14105ab81      lea rdx, qword [0x142c44970]
+| 0x14105ab88      lea rcx, qword [var_5f0h]
+| 0x14105ab8d      call fcn.14005c010
+| 0x14105ab92      test al, al
+| 0x14105ab94      jz 0x14105ac35
+| 0x14105ab9a      mov ebx, dword [rbx]
+| 0x14105ab9c      xor ecx, ecx
+| 0x14105ab9e      call fcn.1428ae3a0
+| 0x14105aba3      mov dword [var_5fah], 0xffff
+| ; 1805
+| 0x14105abab      mov ecx, 0x70d
+| 0x14105abb0      mov word [var_5fch], cx
+| 0x14105abb5      mov dword [var_600h], eax
+| 0x14105abb9      lea rcx, qword [var_600h]
+| 0x14105abbe      call fcn.140065650
+| 0x14105abc3      mov byte [var_608h], r14b
+| 0x14105abc8      mov dword [var_450h], ebx
+| 0x14105abce      mov rax, qword [var_600h]
+| 0x14105abd3      mov qword [var_138h], rax
+| 0x14105abda      movzx eax, word [var_5f8h]
+| 0x14105abdf      mov word [var_130h], ax
+| 0x14105abe6      mov qword [var_618h], rsi
+| 0x14105abeb      lea rax, qword [var_450h]
+| 0x14105abf2      mov qword [var_620h], rax
+| 0x14105abf7      lea rax, qword [var_138h]
+| 0x14105abfe      mov qword [var_628h], rax
+| 0x14105ac03      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105ac06      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105ac09      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105ac0e      lea rcx, qword [var_54ch]
+| 0x14105ac12      call fcn.141083dd0
+| 0x14105ac17      mov dword [rdi], r14d
+| 0x14105ac1a      lea rax, qword [var_54ch]
+| 0x14105ac1e      cmp rdi, rax
+| 0x14105ac21      jz 0x14105bb4a
+| 0x14105ac27      mov eax, dword [var_54ch]
+| 0x14105ac2a      mov dword [rdi], eax
+| 0x14105ac2c      mov dword [var_54ch], r14d
+| 0x14105ac30      jmp 0x14105bb4a
+| 0x14105ac35      lea rdx, qword [0x142c449c0]
+| 0x14105ac3c      lea rcx, qword [var_5f0h]
+| 0x14105ac41      call fcn.14005c010
+| 0x14105ac46      test al, al
+| 0x14105ac48      jz 0x14105ba9b
+| 0x14105ac4e      mov eax, dword [rbx]
+| 0x14105ac50      mov dword [var_44ch], eax
+| 0x14105ac56      mov r8, rsi
+| 0x14105ac59      lea rdx, qword [var_44ch]
+| 0x14105ac60      lea rcx, qword [var_3e4h]
+| 0x14105ac67      call fcn.141092bb0
+| 0x14105ac6c      jmp 0x141058b1e
+| ; 20
+| 0x14105ac71      cmp eax, 0x14
+| 0x14105ac74      jnz 0x14105b089
+| 0x14105ac7a      lea r8, qword [rdx-0x0c]
+| 0x14105ac7e      lea rax, qword [0x142c445c8]
+| ; 16
+| 0x14105ac85      sub rax, 0x10
+| 0x14105ac89      nop dword [rax], eax
+| 0x14105ac90      lea r8, qword [r8+0x10]
+| 0x14105ac94      lea rax, qword [rax+0x10]
+| 0x14105ac98      vmovdqu xmm0, xmmword [r8]
+| 0x14105ac9d      vmovdqu xmm1, xmmword [rax]
+| 0x14105aca1      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105aca7      jnbe 0x14105ac90
+| 0x14105aca9      jb 0x14105ad4a
+| 0x14105acaf      mov ebx, dword [rbx]
+| 0x14105acb1      xor ecx, ecx
+| 0x14105acb3      call fcn.1428ae3a0
+| 0x14105acb8      mov dword [var_5fah], 0xffff
+| ; 1632
+| 0x14105acc0      mov ecx, 0x660
+| 0x14105acc5      mov word [var_5fch], cx
+| 0x14105acca      mov dword [var_600h], eax
+| 0x14105acce      lea rcx, qword [var_600h]
+| 0x14105acd3      call fcn.140065650
+| 0x14105acd8      mov byte [var_608h], r14b
+| 0x14105acdd      mov dword [var_448h], ebx
+| 0x14105ace3      mov rax, qword [var_600h]
+| 0x14105ace8      mov qword [var_128h], rax
+| 0x14105acef      movzx eax, word [var_5f8h]
+| 0x14105acf4      mov word [var_120h], ax
+| 0x14105acfb      mov qword [var_618h], rsi
+| 0x14105ad00      lea rax, qword [var_448h]
+| 0x14105ad07      mov qword [var_620h], rax
+| 0x14105ad0c      lea rax, qword [var_128h]
+| 0x14105ad13      mov qword [var_628h], rax
+| 0x14105ad18      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105ad1b      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105ad1e      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105ad23      lea rcx, qword [rbp]
+| 0x14105ad27      call fcn.14107e040
+| 0x14105ad2c      mov dword [rdi], r14d
+| 0x14105ad2f      lea rax, qword [rbp]
+| 0x14105ad33      cmp rdi, rax
+| 0x14105ad36      jz 0x14105bb4a
+| 0x14105ad3c      mov eax, dword [rbp]
+| 0x14105ad3f      mov dword [rdi], eax
+| 0x14105ad41      mov dword [rbp], r14d
+| 0x14105ad45      jmp 0x14105bb4a
+| 0x14105ad4a      lea r8, qword [rdx-0x0c]
+| 0x14105ad4e      lea rax, qword [0x142c44610]
+| ; 16
+| 0x14105ad55      sub rax, 0x10
+| 0x14105ad59      nop dword [rax], eax
+| 0x14105ad60      lea r8, qword [r8+0x10]
+| 0x14105ad64      lea rax, qword [rax+0x10]
+| 0x14105ad68      vmovdqu xmm0, xmmword [r8]
+| 0x14105ad6d      vmovdqu xmm1, xmmword [rax]
+| 0x14105ad71      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105ad77      jnbe 0x14105ad60
+| 0x14105ad79      jb 0x14105ae1a
+| 0x14105ad7f      mov ebx, dword [rbx]
+| 0x14105ad81      xor ecx, ecx
+| 0x14105ad83      call fcn.1428ae3a0
+| 0x14105ad88      mov dword [var_5fah], 0xffff
+| ; 541
+| 0x14105ad90      mov ecx, 0x21d
+| 0x14105ad95      mov word [var_5fch], cx
+| 0x14105ad9a      mov dword [var_600h], eax
+| 0x14105ad9e      lea rcx, qword [var_600h]
+| 0x14105ada3      call fcn.140065650
+| 0x14105ada8      mov byte [var_608h], r14b
+| 0x14105adad      mov dword [var_444h], ebx
+| 0x14105adb3      mov rax, qword [var_600h]
+| 0x14105adb8      mov qword [var_118h], rax
+| 0x14105adbf      movzx eax, word [var_5f8h]
+| 0x14105adc4      mov word [var_110h], ax
+| 0x14105adcb      mov qword [var_618h], rsi
+| 0x14105add0      lea rax, qword [var_444h]
+| 0x14105add7      mov qword [var_620h], rax
+| 0x14105addc      lea rax, qword [var_118h]
+| 0x14105ade3      mov qword [var_628h], rax
+| 0x14105ade8      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105adeb      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105adee      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105adf3      lea rcx, qword [var_544h]
+| 0x14105adf7      call fcn.141083590
+| 0x14105adfc      mov dword [rdi], r14d
+| 0x14105adff      lea rax, qword [var_544h]
+| 0x14105ae03      cmp rdi, rax
+| 0x14105ae06      jz 0x14105bb4a
+| 0x14105ae0c      mov eax, dword [var_544h]
+| 0x14105ae0f      mov dword [rdi], eax
+| 0x14105ae11      mov dword [var_544h], r14d
+| 0x14105ae15      jmp 0x14105bb4a
+| 0x14105ae1a      lea r8, qword [rdx-0x0c]
+| 0x14105ae1e      lea rax, qword [0x142c446c0]
+| ; 16
+| 0x14105ae25      sub rax, 0x10
+| 0x14105ae29      nop dword [rax], eax
+| 0x14105ae30      lea r8, qword [r8+0x10]
+| 0x14105ae34      lea rax, qword [rax+0x10]
+| 0x14105ae38      vmovdqu xmm0, xmmword [r8]
+| 0x14105ae3d      vmovdqu xmm1, xmmword [rax]
+| 0x14105ae41      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105ae47      jnbe 0x14105ae30
+| 0x14105ae49      jb 0x14105aeea
+| 0x14105ae4f      mov ebx, dword [rbx]
+| 0x14105ae51      xor ecx, ecx
+| 0x14105ae53      call fcn.1428ae3a0
+| 0x14105ae58      mov dword [var_5fah], 0xffff
+| ; 793
+| 0x14105ae60      mov ecx, 0x319
+| 0x14105ae65      mov word [var_5fch], cx
+| 0x14105ae6a      mov dword [var_600h], eax
+| 0x14105ae6e      lea rcx, qword [var_600h]
+| 0x14105ae73      call fcn.140065650
+| 0x14105ae78      mov byte [var_608h], r14b
+| 0x14105ae7d      mov dword [var_440h], ebx
+| 0x14105ae83      mov rax, qword [var_600h]
+| 0x14105ae88      mov qword [var_108h], rax
+| 0x14105ae8f      movzx eax, word [var_5f8h]
+| 0x14105ae94      mov word [var_100h], ax
+| 0x14105ae9b      mov qword [var_618h], rsi
+| 0x14105aea0      lea rax, qword [var_440h]
+| 0x14105aea7      mov qword [var_620h], rax
+| 0x14105aeac      lea rax, qword [var_108h]
+| 0x14105aeb3      mov qword [var_628h], rax
+| 0x14105aeb8      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105aebb      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105aebe      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105aec3      lea rcx, qword [var_540h]
+| 0x14105aec7      call fcn.141085c10
+| 0x14105aecc      mov dword [rdi], r14d
+| 0x14105aecf      lea rax, qword [var_540h]
+| 0x14105aed3      cmp rdi, rax
+| 0x14105aed6      jz 0x14105bb4a
+| 0x14105aedc      mov eax, dword [var_540h]
+| 0x14105aedf      mov dword [rdi], eax
+| 0x14105aee1      mov dword [var_540h], r14d
+| 0x14105aee5      jmp 0x14105bb4a
+| 0x14105aeea      lea r8, qword [rdx-0x0c]
+| 0x14105aeee      lea rax, qword [0x142c446d8]
+| ; 16
+| 0x14105aef5      sub rax, 0x10
+| 0x14105aef9      nop dword [rax], eax
+| 0x14105af00      lea r8, qword [r8+0x10]
+| 0x14105af04      lea rax, qword [rax+0x10]
+| 0x14105af08      vmovdqu xmm0, xmmword [r8]
+| 0x14105af0d      vmovdqu xmm1, xmmword [rax]
+| 0x14105af11      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105af17      jnbe 0x14105af00
+| 0x14105af19      jb 0x14105afba
+| 0x14105af1f      mov ebx, dword [rbx]
+| 0x14105af21      xor ecx, ecx
+| 0x14105af23      call fcn.1428ae3a0
+| 0x14105af28      mov dword [var_5fah], 0xffff
+| ; 785
+| 0x14105af30      mov ecx, 0x311
+| 0x14105af35      mov word [var_5fch], cx
+| 0x14105af3a      mov dword [var_600h], eax
+| 0x14105af3e      lea rcx, qword [var_600h]
+| 0x14105af43      call fcn.140065650
+| 0x14105af48      mov byte [var_608h], r14b
+| 0x14105af4d      mov dword [var_43ch], ebx
+| 0x14105af53      mov rax, qword [var_600h]
+| 0x14105af58      mov qword [var_f8h], rax
+| 0x14105af5f      movzx eax, word [var_5f8h]
+| 0x14105af64      mov word [var_f0h], ax
+| 0x14105af6b      mov qword [var_618h], rsi
+| 0x14105af70      lea rax, qword [var_43ch]
+| 0x14105af77      mov qword [var_620h], rax
+| 0x14105af7c      lea rax, qword [var_f8h]
+| 0x14105af83      mov qword [var_628h], rax
+| 0x14105af88      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105af8b      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105af8e      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105af93      lea rcx, qword [var_53ch]
+| 0x14105af97      call fcn.141086f50
+| 0x14105af9c      mov dword [rdi], r14d
+| 0x14105af9f      lea rax, qword [var_53ch]
+| 0x14105afa3      cmp rdi, rax
+| 0x14105afa6      jz 0x14105bb4a
+| 0x14105afac      mov eax, dword [var_53ch]
+| 0x14105afaf      mov dword [rdi], eax
+| 0x14105afb1      mov dword [var_53ch], r14d
+| 0x14105afb5      jmp 0x14105bb4a
+| 0x14105afba      add rdx, 0xfffffffffffffff4
+| 0x14105afbe      lea rax, qword [0x142c44748]
+| ; 16
+| 0x14105afc5      sub rax, 0x10
+| 0x14105afc9      nop dword [rax], eax
+| 0x14105afd0      lea rdx, qword [rdx+0x10]
+| 0x14105afd4      lea rax, qword [rax+0x10]
+| 0x14105afd8      vmovdqu xmm0, xmmword [rdx]
+| 0x14105afdc      vmovdqu xmm1, xmmword [rax]
+| 0x14105afe0      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105afe6      jnbe 0x14105afd0
+| 0x14105afe8      jb 0x14105ba9b
+| 0x14105afee      mov ebx, dword [rbx]
+| 0x14105aff0      xor ecx, ecx
+| 0x14105aff2      call fcn.1428ae3a0
+| 0x14105aff7      mov dword [var_5fah], 0xffff
+| ; 845
+| 0x14105afff      mov ecx, 0x34d
+| 0x14105b004      mov word [var_5fch], cx
+| 0x14105b009      mov dword [var_600h], eax
+| 0x14105b00d      lea rcx, qword [var_600h]
+| 0x14105b012      call fcn.140065650
+| 0x14105b017      mov byte [var_608h], r14b
+| 0x14105b01c      mov dword [var_438h], ebx
+| 0x14105b022      mov rax, qword [var_600h]
+| 0x14105b027      mov qword [var_e8h], rax
+| 0x14105b02e      movzx eax, word [var_5f8h]
+| 0x14105b033      mov word [var_e0h], ax
+| 0x14105b03a      mov qword [var_618h], rsi
+| 0x14105b03f      lea rax, qword [var_438h]
+| 0x14105b046      mov qword [var_620h], rax
+| 0x14105b04b      lea rax, qword [var_e8h]
+| 0x14105b052      mov qword [var_628h], rax
+| 0x14105b057      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b05a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b05d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b062      lea rcx, qword [var_538h]
+| 0x14105b066      call fcn.141085110
+| 0x14105b06b      mov dword [rdi], r14d
+| 0x14105b06e      lea rax, qword [var_538h]
+| 0x14105b072      cmp rdi, rax
+| 0x14105b075      jz 0x14105bb4a
+| 0x14105b07b      mov eax, dword [var_538h]
+| 0x14105b07e      mov dword [rdi], eax
+| 0x14105b080      mov dword [var_538h], r14d
+| 0x14105b084      jmp 0x14105bb4a
+| ; 29
+| 0x14105b089      cmp eax, 0x1d
+| 0x14105b08c      jnz 0x14105b169
+| 0x14105b092      add rdx, 0xfffffffffffffff4
+| 0x14105b096      lea rax, qword [0x142c445f0]
+| ; 16
+| 0x14105b09d      sub rax, 0x10
+| 0x14105b0a1      nop dword [rax], eax
+| 0x14105b0a5      nop word [rax+rax*1], ax
+| 0x14105b0b0      lea rdx, qword [rdx+0x10]
+| 0x14105b0b4      lea rax, qword [rax+0x10]
+| 0x14105b0b8      vmovdqu xmm0, xmmword [rdx]
+| 0x14105b0bc      vmovdqu xmm1, xmmword [rax]
+| 0x14105b0c0      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105b0c6      jnbe 0x14105b0b0
+| 0x14105b0c8      jb 0x14105ba9b
+| 0x14105b0ce      mov ebx, dword [rbx]
+| 0x14105b0d0      xor ecx, ecx
+| 0x14105b0d2      call fcn.1428ae3a0
+| 0x14105b0d7      mov dword [var_5fah], 0xffff
+| ; 514
+| 0x14105b0df      mov ecx, 0x202
+| 0x14105b0e4      mov word [var_5fch], cx
+| 0x14105b0e9      mov dword [var_600h], eax
+| 0x14105b0ed      lea rcx, qword [var_600h]
+| 0x14105b0f2      call fcn.140065650
+| 0x14105b0f7      mov byte [var_608h], r14b
+| 0x14105b0fc      mov dword [var_434h], ebx
+| 0x14105b102      mov rax, qword [var_600h]
+| 0x14105b107      mov qword [var_d8h], rax
+| 0x14105b10e      movzx eax, word [var_5f8h]
+| 0x14105b113      mov word [var_d0h], ax
+| 0x14105b11a      mov qword [var_618h], rsi
+| 0x14105b11f      lea rax, qword [var_434h]
+| 0x14105b126      mov qword [var_620h], rax
+| 0x14105b12b      lea rax, qword [var_d8h]
+| 0x14105b132      mov qword [var_628h], rax
+| 0x14105b137      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b13a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b13d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b142      lea rcx, qword [var_518h]
+| 0x14105b146      call fcn.141082510
+| 0x14105b14b      mov dword [rdi], r14d
+| 0x14105b14e      lea rax, qword [var_518h]
+| 0x14105b152      cmp rdi, rax
+| 0x14105b155      jz 0x14105bb4a
+| 0x14105b15b      mov eax, dword [var_518h]
+| 0x14105b15e      mov dword [rdi], eax
+| 0x14105b160      mov dword [var_518h], r14d
+| 0x14105b164      jmp 0x14105bb4a
+| ; 30
+| 0x14105b169      cmp eax, 0x1e
+| 0x14105b16c      jnz 0x14105b249
+| 0x14105b172      add rdx, 0xfffffffffffffff4
+| 0x14105b176      lea rax, qword [0x142c44658]
+| ; 16
+| 0x14105b17d      sub rax, 0x10
+| 0x14105b181      nop dword [rax], eax
+| 0x14105b185      nop word [rax+rax*1], ax
+| 0x14105b190      lea rdx, qword [rdx+0x10]
+| 0x14105b194      lea rax, qword [rax+0x10]
+| 0x14105b198      vmovdqu xmm0, xmmword [rdx]
+| 0x14105b19c      vmovdqu xmm1, xmmword [rax]
+| 0x14105b1a0      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105b1a6      jnbe 0x14105b190
+| 0x14105b1a8      jb 0x14105ba9b
+| 0x14105b1ae      mov ebx, dword [rbx]
+| 0x14105b1b0      xor ecx, ecx
+| 0x14105b1b2      call fcn.1428ae3a0
+| 0x14105b1b7      mov dword [var_5fah], 0xffff
+| ; 713
+| 0x14105b1bf      mov ecx, 0x2c9
+| 0x14105b1c4      mov word [var_5fch], cx
+| 0x14105b1c9      mov dword [var_600h], eax
+| 0x14105b1cd      lea rcx, qword [var_600h]
+| 0x14105b1d2      call fcn.140065650
+| 0x14105b1d7      mov byte [var_608h], r14b
+| 0x14105b1dc      mov dword [var_430h], ebx
+| 0x14105b1e2      mov rax, qword [var_600h]
+| 0x14105b1e7      mov qword [var_c8h], rax
+| 0x14105b1ee      movzx eax, word [var_5f8h]
+| 0x14105b1f3      mov word [var_c0h], ax
+| 0x14105b1fa      mov qword [var_618h], rsi
+| 0x14105b1ff      lea rax, qword [var_430h]
+| 0x14105b206      mov qword [var_620h], rax
+| 0x14105b20b      lea rax, qword [var_c8h]
+| 0x14105b212      mov qword [var_628h], rax
+| 0x14105b217      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b21a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b21d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b222      lea rcx, qword [var_530h]
+| 0x14105b226      call fcn.141084b90
+| 0x14105b22b      mov dword [rdi], r14d
+| 0x14105b22e      lea rax, qword [var_530h]
+| 0x14105b232      cmp rdi, rax
+| 0x14105b235      jz 0x14105bb4a
+| 0x14105b23b      mov eax, dword [var_530h]
+| 0x14105b23e      mov dword [rdi], eax
+| 0x14105b240      mov dword [var_530h], r14d
+| 0x14105b244      jmp 0x14105bb4a
+| ; '!'
+| ; 33
+| 0x14105b249      cmp eax, 0x21
+| 0x14105b24c      jnz 0x14105b329
+| 0x14105b252      add rdx, 0xfffffffffffffff4
+| 0x14105b256      lea rax, qword [0x142c44678]
+| ; 16
+| 0x14105b25d      sub rax, 0x10
+| 0x14105b261      nop dword [rax], eax
+| 0x14105b265      nop word [rax+rax*1], ax
+| 0x14105b270      lea rdx, qword [rdx+0x10]
+| 0x14105b274      lea rax, qword [rax+0x10]
+| 0x14105b278      vmovdqu xmm0, xmmword [rdx]
+| 0x14105b27c      vmovdqu xmm1, xmmword [rax]
+| 0x14105b280      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105b286      jnbe 0x14105b270
+| 0x14105b288      jb 0x14105ba9b
+| 0x14105b28e      mov ebx, dword [rbx]
+| 0x14105b290      xor ecx, ecx
+| 0x14105b292      call fcn.1428ae3a0
+| 0x14105b297      mov dword [var_5fah], 0xffff
+| ; 833
+| 0x14105b29f      mov ecx, 0x341
+| 0x14105b2a4      mov word [var_5fch], cx
+| 0x14105b2a9      mov dword [var_600h], eax
+| 0x14105b2ad      lea rcx, qword [var_600h]
+| 0x14105b2b2      call fcn.140065650
+| 0x14105b2b7      mov byte [var_608h], r14b
+| 0x14105b2bc      mov dword [var_42ch], ebx
+| 0x14105b2c2      mov rax, qword [var_600h]
+| 0x14105b2c7      mov qword [var_b8h], rax
+| 0x14105b2ce      movzx eax, word [var_5f8h]
+| 0x14105b2d3      mov word [var_b0h], ax
+| 0x14105b2da      mov qword [var_618h], rsi
+| 0x14105b2df      lea rax, qword [var_42ch]
+| 0x14105b2e6      mov qword [var_620h], rax
+| 0x14105b2eb      lea rax, qword [var_b8h]
+| 0x14105b2f2      mov qword [var_628h], rax
+| 0x14105b2f7      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b2fa      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b2fd      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b302      lea rcx, qword [var_52ch]
+| 0x14105b306      call fcn.141084090
+| 0x14105b30b      mov dword [rdi], r14d
+| 0x14105b30e      lea rax, qword [var_52ch]
+| 0x14105b312      cmp rdi, rax
+| 0x14105b315      jz 0x14105bb4a
+| 0x14105b31b      mov eax, dword [var_52ch]
+| 0x14105b31e      mov dword [rdi], eax
+| 0x14105b320      mov dword [var_52ch], r14d
+| 0x14105b324      jmp 0x14105bb4a
+| ; 24
+| 0x14105b329      cmp eax, 0x18
+| 0x14105b32c      jnz 0x14105b4c9
+| 0x14105b332      lea r8, qword [rdx-0x0c]
+| 0x14105b336      lea rax, qword [0x142c446a0]
+| ; 16
+| 0x14105b33d      sub rax, 0x10
+| 0x14105b341      lea r8, qword [r8+0x10]
+| 0x14105b345      lea rax, qword [rax+0x10]
+| 0x14105b349      vmovdqu xmm0, xmmword [r8]
+| 0x14105b34e      vmovdqu xmm1, xmmword [rax]
+| 0x14105b352      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105b358      jnbe 0x14105b341
+| 0x14105b35a      jb 0x14105b3fb
+| 0x14105b360      mov ebx, dword [rbx]
+| 0x14105b362      xor ecx, ecx
+| 0x14105b364      call fcn.1428ae3a0
+| 0x14105b369      mov dword [var_5fah], 0xffff
+| ; 744
+| 0x14105b371      mov ecx, 0x2e8
+| 0x14105b376      mov word [var_5fch], cx
+| 0x14105b37b      mov dword [var_600h], eax
+| 0x14105b37f      lea rcx, qword [var_600h]
+| 0x14105b384      call fcn.140065650
+| 0x14105b389      mov byte [var_608h], r14b
+| 0x14105b38e      mov dword [var_428h], ebx
+| 0x14105b394      mov rax, qword [var_600h]
+| 0x14105b399      mov qword [var_a8h], rax
+| 0x14105b3a0      movzx eax, word [var_5f8h]
+| 0x14105b3a5      mov word [var_a0h], ax
+| 0x14105b3ac      mov qword [var_618h], rsi
+| 0x14105b3b1      lea rax, qword [var_428h]
+| 0x14105b3b8      mov qword [var_620h], rax
+| 0x14105b3bd      lea rax, qword [var_a8h]
+| 0x14105b3c4      mov qword [var_628h], rax
+| 0x14105b3c9      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b3cc      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b3cf      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b3d4      lea rcx, qword [var_528h]
+| 0x14105b3d8      call fcn.141082a90
+| 0x14105b3dd      mov dword [rdi], r14d
+| 0x14105b3e0      lea rax, qword [var_528h]
+| 0x14105b3e4      cmp rdi, rax
+| 0x14105b3e7      jz 0x14105bb4a
+| 0x14105b3ed      mov eax, dword [var_528h]
+| 0x14105b3f0      mov dword [rdi], eax
+| 0x14105b3f2      mov dword [var_528h], r14d
+| 0x14105b3f6      jmp 0x14105bb4a
+| 0x14105b3fb      add rdx, 0xfffffffffffffff4
+| 0x14105b3ff      lea rax, qword [0x142c44708]
+| ; 16
+| 0x14105b406      sub rax, 0x10
+| 0x14105b40a      nop word [rax+rax*1], ax
+| 0x14105b410      lea rdx, qword [rdx+0x10]
+| 0x14105b414      lea rax, qword [rax+0x10]
+| 0x14105b418      vmovdqu xmm0, xmmword [rdx]
+| 0x14105b41c      vmovdqu xmm1, xmmword [rax]
+| 0x14105b420      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105b426      jnbe 0x14105b410
+| 0x14105b428      jb 0x14105ba9b
+| 0x14105b42e      mov ebx, dword [rbx]
+| 0x14105b430      xor ecx, ecx
+| 0x14105b432      call fcn.1428ae3a0
+| 0x14105b437      mov dword [var_5fah], 0xffff
+| ; 856
+| 0x14105b43f      mov ecx, 0x358
+| 0x14105b444      mov word [var_5fch], cx
+| 0x14105b449      mov dword [var_600h], eax
+| 0x14105b44d      lea rcx, qword [var_600h]
+| 0x14105b452      call fcn.140065650
+| 0x14105b457      mov byte [var_608h], r14b
+| 0x14105b45c      mov dword [var_424h], ebx
+| 0x14105b462      mov rax, qword [var_600h]
+| 0x14105b467      mov qword [var_98h], rax
+| 0x14105b46e      movzx eax, word [var_5f8h]
+| 0x14105b473      mov word [var_90h], ax
+| 0x14105b47a      mov qword [var_618h], rsi
+| 0x14105b47f      lea rax, qword [var_424h]
+| 0x14105b486      mov qword [var_620h], rax
+| 0x14105b48b      lea rax, qword [var_98h]
+| 0x14105b492      mov qword [var_628h], rax
+| 0x14105b497      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b49a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b49d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b4a2      lea rcx, qword [var_524h]
+| 0x14105b4a6      call fcn.141085950
+| 0x14105b4ab      mov dword [rdi], r14d
+| 0x14105b4ae      lea rax, qword [var_524h]
+| 0x14105b4b2      cmp rdi, rax
+| 0x14105b4b5      jz 0x14105bb4a
+| 0x14105b4bb      mov eax, dword [var_524h]
+| 0x14105b4be      mov dword [rdi], eax
+| 0x14105b4c0      mov dword [var_524h], r14d
+| 0x14105b4c4      jmp 0x14105bb4a
+| ; 26
+| 0x14105b4c9      cmp eax, 0x1a
+| 0x14105b4cc      jnz 0x14105b9a1
+| 0x14105b4d2      add rdx, 0xfffffffffffffff4
+| 0x14105b4d6      lea rax, qword [0x142c44728]
+| ; 16
+| 0x14105b4dd      sub rax, 0x10
+| 0x14105b4e1      nop dword [rax], eax
+| 0x14105b4e5      nop word [rax+rax*1], ax
+| 0x14105b4f0      lea rdx, qword [rdx+0x10]
+| 0x14105b4f4      lea rax, qword [rax+0x10]
+| 0x14105b4f8      vmovdqu xmm0, xmmword [rdx]
+| 0x14105b4fc      vmovdqu xmm1, xmmword [rax]
+| 0x14105b500      vpcmpistri xmm0, xmm1, 0x18
+| 0x14105b506      jnbe 0x14105b4f0
+| 0x14105b508      jb 0x14105b5a9
+| 0x14105b50e      mov ebx, dword [rbx]
+| 0x14105b510      xor ecx, ecx
+| 0x14105b512      call fcn.1428ae3a0
+| 0x14105b517      mov dword [var_5fah], 0xffff
+| ; 815
+| 0x14105b51f      mov ecx, 0x32f
+| 0x14105b524      mov word [var_5fch], cx
+| 0x14105b529      mov dword [var_600h], eax
+| 0x14105b52d      lea rcx, qword [var_600h]
+| 0x14105b532      call fcn.140065650
+| 0x14105b537      mov byte [var_608h], r14b
+| 0x14105b53c      mov dword [var_420h], ebx
+| 0x14105b542      mov rax, qword [var_600h]
+| 0x14105b547      mov qword [var_88h], rax
+| 0x14105b54e      movzx eax, word [var_5f8h]
+| 0x14105b553      mov word [var_80h], ax
+| 0x14105b55a      mov qword [var_618h], rsi
+| 0x14105b55f      lea rax, qword [var_420h]
+| 0x14105b566      mov qword [var_620h], rax
+| 0x14105b56b      lea rax, qword [var_88h]
+| 0x14105b572      mov qword [var_628h], rax
+| 0x14105b577      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b57a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b57d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b582      lea rcx, qword [var_520h]
+| 0x14105b586      call fcn.141087790
+| 0x14105b58b      mov dword [rdi], r14d
+| 0x14105b58e      lea rax, qword [var_520h]
+| 0x14105b592      cmp rdi, rax
+| 0x14105b595      jz 0x14105bb4a
+| 0x14105b59b      mov eax, dword [var_520h]
+| 0x14105b59e      mov dword [rdi], eax
+| 0x14105b5a0      mov dword [var_520h], r14d
+| 0x14105b5a4      jmp 0x14105bb4a
+| 0x14105b5a9      lea rdx, qword [0x142c44790]
+| 0x14105b5b0      lea rcx, qword [var_5f0h]
+| 0x14105b5b5      call fcn.14005c010
+| 0x14105b5ba      test al, al
+| 0x14105b5bc      jz 0x14105b65d
+| 0x14105b5c2      mov ebx, dword [rbx]
+| 0x14105b5c4      xor ecx, ecx
+| 0x14105b5c6      call fcn.1428ae3a0
+| 0x14105b5cb      mov dword [var_5fah], 0xffff
+| ; 1381
+| 0x14105b5d3      mov ecx, 0x565
+| 0x14105b5d8      mov word [var_5fch], cx
+| 0x14105b5dd      mov dword [var_600h], eax
+| 0x14105b5e1      lea rcx, qword [var_600h]
+| 0x14105b5e6      call fcn.140065650
+| 0x14105b5eb      mov byte [var_608h], r14b
+| 0x14105b5f0      mov dword [var_41ch], ebx
+| 0x14105b5f6      mov rax, qword [var_600h]
+| 0x14105b5fb      mov qword [var_78h], rax
+| 0x14105b602      movzx eax, word [var_5f8h]
+| 0x14105b607      mov word [var_70h], ax
+| 0x14105b60e      mov qword [var_618h], rsi
+| 0x14105b613      lea rax, qword [var_41ch]
+| 0x14105b61a      mov qword [var_620h], rax
+| 0x14105b61f      lea rax, qword [var_78h]
+| 0x14105b626      mov qword [var_628h], rax
+| 0x14105b62b      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b62e      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b631      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b636      lea rcx, qword [var_51ch]
+| 0x14105b63a      call fcn.141083850
+| 0x14105b63f      mov dword [rdi], r14d
+| 0x14105b642      lea rax, qword [var_51ch]
+| 0x14105b646      cmp rdi, rax
+| 0x14105b649      jz 0x14105bb4a
+| 0x14105b64f      mov eax, dword [var_51ch]
+| 0x14105b652      mov dword [rdi], eax
+| 0x14105b654      mov dword [var_51ch], r14d
+| 0x14105b658      jmp 0x14105bb4a
+| 0x14105b65d      lea rdx, qword [0x142c44818]
+| 0x14105b664      lea rcx, qword [var_5f0h]
+| 0x14105b669      call fcn.14005c010
+| 0x14105b66e      test al, al
+| 0x14105b670      jz 0x14105b711
+| 0x14105b676      mov ebx, dword [rbx]
+| 0x14105b678      xor ecx, ecx
+| 0x14105b67a      call fcn.1428ae3a0
+| 0x14105b67f      mov dword [var_5fah], 0xffff
+| ; 1726
+| 0x14105b687      mov ecx, 0x6be
+| 0x14105b68c      mov word [var_5fch], cx
+| 0x14105b691      mov dword [var_600h], eax
+| 0x14105b695      lea rcx, qword [var_600h]
+| 0x14105b69a      call fcn.140065650
+| 0x14105b69f      mov byte [var_608h], r14b
+| 0x14105b6a4      mov dword [var_418h], ebx
+| 0x14105b6aa      mov rax, qword [var_600h]
+| 0x14105b6af      mov qword [var_68h], rax
+| 0x14105b6b6      movzx eax, word [var_5f8h]
+| 0x14105b6bb      mov word [var_60h], ax
+| 0x14105b6c2      mov qword [var_618h], rsi
+| 0x14105b6c7      lea rax, qword [var_418h]
+| 0x14105b6ce      mov qword [var_620h], rax
+| 0x14105b6d3      lea rax, qword [var_68h]
+| 0x14105b6da      mov qword [var_628h], rax
+| 0x14105b6df      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b6e2      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b6e5      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b6ea      lea rcx, qword [var_4fch]
+| 0x14105b6ee      call fcn.141080400
+| 0x14105b6f3      mov dword [rdi], r14d
+| 0x14105b6f6      lea rax, qword [var_4fch]
+| 0x14105b6fa      cmp rdi, rax
+| 0x14105b6fd      jz 0x14105bb4a
+| 0x14105b703      mov eax, dword [var_4fch]
+| 0x14105b706      mov dword [rdi], eax
+| 0x14105b708      mov dword [var_4fch], r14d
+| 0x14105b70c      jmp 0x14105bb4a
+| 0x14105b711      lea rdx, qword [0x142c44838]
+| 0x14105b718      lea rcx, qword [var_5f0h]
+| 0x14105b71d      call fcn.14005c010
+| 0x14105b722      test al, al
+| 0x14105b724      jz 0x14105b7c5
+| 0x14105b72a      mov ebx, dword [rbx]
+| 0x14105b72c      xor ecx, ecx
+| 0x14105b72e      call fcn.1428ae3a0
+| 0x14105b733      mov dword [var_5fah], 0xffff
+| ; 1733
+| 0x14105b73b      mov ecx, 0x6c5
+| 0x14105b740      mov word [var_5fch], cx
+| 0x14105b745      mov dword [var_600h], eax
+| 0x14105b749      lea rcx, qword [var_600h]
+| 0x14105b74e      call fcn.140065650
+| 0x14105b753      mov byte [var_608h], r14b
+| 0x14105b758      mov dword [var_414h], ebx
+| 0x14105b75e      mov rax, qword [var_600h]
+| 0x14105b763      mov qword [var_58h], rax
+| 0x14105b76a      movzx eax, word [var_5f8h]
+| 0x14105b76f      mov word [var_50h], ax
+| 0x14105b776      mov qword [var_618h], rsi
+| 0x14105b77b      lea rax, qword [var_414h]
+| 0x14105b782      mov qword [var_620h], rax
+| 0x14105b787      lea rax, qword [var_58h]
+| 0x14105b78e      mov qword [var_628h], rax
+| 0x14105b793      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b796      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b799      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b79e      lea rcx, qword [var_514h]
+| 0x14105b7a2      call fcn.141088290
+| 0x14105b7a7      mov dword [rdi], r14d
+| 0x14105b7aa      lea rax, qword [var_514h]
+| 0x14105b7ae      cmp rdi, rax
+| 0x14105b7b1      jz 0x14105bb4a
+| 0x14105b7b7      mov eax, dword [var_514h]
+| 0x14105b7ba      mov dword [rdi], eax
+| 0x14105b7bc      mov dword [var_514h], r14d
+| 0x14105b7c0      jmp 0x14105bb4a
+| 0x14105b7c5      lea rdx, qword [0x142c448e8]
+| 0x14105b7cc      lea rcx, qword [var_5f0h]
+| 0x14105b7d1      call fcn.14005c010
+| 0x14105b7d6      test al, al
+| 0x14105b7d8      jz 0x14105b879
+| 0x14105b7de      mov ebx, dword [rbx]
+| 0x14105b7e0      xor ecx, ecx
+| 0x14105b7e2      call fcn.1428ae3a0
+| 0x14105b7e7      mov dword [var_5fah], 0xffff
+| ; 1779
+| 0x14105b7ef      mov ecx, 0x6f3
+| 0x14105b7f4      mov word [var_5fch], cx
+| 0x14105b7f9      mov dword [var_600h], eax
+| 0x14105b7fd      lea rcx, qword [var_600h]
+| 0x14105b802      call fcn.140065650
+| 0x14105b807      mov byte [var_608h], r14b
+| 0x14105b80c      mov dword [var_410h], ebx
+| 0x14105b812      mov rax, qword [var_600h]
+| 0x14105b817      mov qword [var_48h], rax
+| 0x14105b81e      movzx eax, word [var_5f8h]
+| 0x14105b823      mov word [var_40h], ax
+| 0x14105b82a      mov qword [var_618h], rsi
+| 0x14105b82f      lea rax, qword [var_410h]
+| 0x14105b836      mov qword [var_620h], rax
+| 0x14105b83b      lea rax, qword [var_48h]
+| 0x14105b842      mov qword [var_628h], rax
+| 0x14105b847      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b84a      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b84d      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b852      lea rcx, qword [var_510h]
+| 0x14105b856      call fcn.141085ed0
+| 0x14105b85b      mov dword [rdi], r14d
+| 0x14105b85e      lea rax, qword [var_510h]
+| 0x14105b862      cmp rdi, rax
+| 0x14105b865      jz 0x14105bb4a
+| 0x14105b86b      mov eax, dword [var_510h]
+| 0x14105b86e      mov dword [rdi], eax
+| 0x14105b870      mov dword [var_510h], r14d
+| 0x14105b874      jmp 0x14105bb4a
+| 0x14105b879      lea rdx, qword [0x142c44950]
+| 0x14105b880      lea rcx, qword [var_5f0h]
+| 0x14105b885      call fcn.14005c010
+| 0x14105b88a      test al, al
+| 0x14105b88c      jz 0x14105b92d
+| 0x14105b892      mov ebx, dword [rbx]
+| 0x14105b894      xor ecx, ecx
+| 0x14105b896      call fcn.1428ae3a0
+| 0x14105b89b      mov dword [var_5fah], 0xffff
+| ; 1795
+| 0x14105b8a3      mov ecx, 0x703
+| 0x14105b8a8      mov word [var_5fch], cx
+| 0x14105b8ad      mov dword [var_600h], eax
+| 0x14105b8b1      lea rcx, qword [var_600h]
+| 0x14105b8b6      call fcn.140065650
+| 0x14105b8bb      mov byte [var_608h], r14b
+| 0x14105b8c0      mov dword [var_40ch], ebx
+| 0x14105b8c6      mov rax, qword [var_600h]
+| 0x14105b8cb      mov qword [var_38h], rax
+| 0x14105b8d2      movzx eax, word [var_5f8h]
+| 0x14105b8d7      mov word [var_30h], ax
+| 0x14105b8de      mov qword [var_618h], rsi
+| 0x14105b8e3      lea rax, qword [var_40ch]
+| 0x14105b8ea      mov qword [var_620h], rax
+| 0x14105b8ef      lea rax, qword [var_38h]
+| 0x14105b8f6      mov qword [var_628h], rax
+| 0x14105b8fb      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105b8fe      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105b901      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105b906      lea rcx, qword [var_50ch]
+| 0x14105b90a      call fcn.141084610
+| 0x14105b90f      mov dword [rdi], r14d
+| 0x14105b912      lea rax, qword [var_50ch]
+| 0x14105b916      cmp rdi, rax
+| 0x14105b919      jz 0x14105bb4a
+| 0x14105b91f      mov eax, dword [var_50ch]
+| 0x14105b922      mov dword [rdi], eax
+| 0x14105b924      mov dword [var_50ch], r14d
+| 0x14105b928      jmp 0x14105bb4a
+| 0x14105b92d      lea rdx, qword [0x142c449f0]
+| 0x14105b934      lea rcx, qword [var_5f0h]
+| 0x14105b939      call fcn.14005c010
+| 0x14105b93e      test al, al
+| 0x14105b940      jz 0x14105b965
+| 0x14105b942      mov eax, dword [rbx]
+| 0x14105b944      mov dword [var_408h], eax
+| 0x14105b94a      mov r8, rsi
+| 0x14105b94d      lea rdx, qword [var_408h]
+| 0x14105b954      lea rcx, qword [var_3e0h]
+| 0x14105b95b      call fcn.141092750
+| 0x14105b960      jmp 0x141058b1e
+| 0x14105b965      lea rdx, qword [0x142c44a30]
+| 0x14105b96c      lea rcx, qword [var_5f0h]
+| 0x14105b971      call fcn.14005c010
+| 0x14105b976      test al, al
+| 0x14105b978      jz 0x14105ba9b
+| 0x14105b97e      mov eax, dword [rbx]
+| 0x14105b980      mov dword [var_404h], eax
+| 0x14105b986      mov r8, rsi
+| 0x14105b989      lea rdx, qword [var_404h]
+| 0x14105b990      lea rcx, qword [var_3dch]
+| 0x14105b997      call fcn.141092e30
+| 0x14105b99c      jmp 0x141058b1e
+| ; 31
+| 0x14105b9a1      cmp eax, 0x1f
+| 0x14105b9a4      jnz 0x14105ba5e
+| 0x14105b9aa      lea rdx, qword [0x142c447b0]
+| 0x14105b9b1      lea rcx, qword [var_5f0h]
+| 0x14105b9b6      call fcn.14005c010
+| 0x14105b9bb      test al, al
+| 0x14105b9bd      jz 0x14105ba9b
+| 0x14105b9c3      mov ebx, dword [rbx]
+| 0x14105b9c5      xor ecx, ecx
+| 0x14105b9c7      call fcn.1428ae3a0
+| 0x14105b9cc      mov dword [var_5fah], 0xffff
+| ; 1418
+| 0x14105b9d4      mov ecx, 0x58a
+| 0x14105b9d9      mov word [var_5fch], cx
+| 0x14105b9de      mov dword [var_600h], eax
+| 0x14105b9e2      lea rcx, qword [var_600h]
+| 0x14105b9e7      call fcn.140065650
+| 0x14105b9ec      mov byte [var_608h], r14b
+| 0x14105b9f1      mov dword [var_400h], ebx
+| 0x14105b9f7      mov rax, qword [var_600h]
+| 0x14105b9fc      mov qword [var_28h], rax
+| 0x14105ba03      movzx eax, word [var_5f8h]
+| 0x14105ba08      mov word [var_28h + 0x8], ax
+| 0x14105ba0f      mov qword [var_618h], rsi
+| 0x14105ba14      lea rax, qword [var_400h]
+| 0x14105ba1b      mov qword [var_620h], rax
+| 0x14105ba20      lea rax, qword [var_28h]
+| 0x14105ba27      mov qword [var_628h], rax
+| 0x14105ba2c      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105ba2f      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105ba32      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105ba37      lea rcx, qword [var_508h]
+| 0x14105ba3b      call fcn.141083b10
+| 0x14105ba40      mov dword [rdi], r14d
+| 0x14105ba43      lea rax, qword [var_508h]
+| 0x14105ba47      cmp rdi, rax
+| 0x14105ba4a      jz 0x14105bb4a
+| 0x14105ba50      mov eax, dword [var_508h]
+| 0x14105ba53      mov dword [rdi], eax
+| 0x14105ba55      mov dword [var_508h], r14d
+| 0x14105ba59      jmp 0x14105bb4a
+| ; 28
+| 0x14105ba5e      cmp eax, 0x1c
+| 0x14105ba61      jnz 0x14105ba9b
+| 0x14105ba63      lea rdx, qword [0x142c44a10]
+| 0x14105ba6a      lea rcx, qword [var_5f0h]
+| 0x14105ba6f      call fcn.14005c010
+| 0x14105ba74      test al, al
+| 0x14105ba76      jz 0x14105ba9b
+| 0x14105ba78      mov eax, dword [rbx]
+| 0x14105ba7a      mov dword [var_3fch], eax
+| 0x14105ba80      mov r8, rsi
+| 0x14105ba83      lea rdx, qword [var_3fch]
+| 0x14105ba8a      lea rcx, qword [var_3d8h]
+| 0x14105ba91      call fcn.141092f70
+| 0x14105ba96      jmp 0x141058b1e
+| 0x14105ba9b      mov dword [var_3f8h], r14d
+| 0x14105baa2      lea rdx, qword [var_3f8h]
+| 0x14105baa9      lea rcx, qword [var_3d4h]
+| 0x14105bab0      jmp 0x141058b16
+| 0x14105bab5      xor ecx, ecx
+| 0x14105bab7      call fcn.1428ae3a0
+| 0x14105babc      mov dword [var_5fah], 0xffff
+| ; '~'
+| ; 126
+| 0x14105bac4      mov ecx, 0x7e
+| 0x14105bac9      mov word [var_5fch], cx
+| 0x14105bace      mov dword [var_600h], eax
+| 0x14105bad2      lea rcx, qword [var_600h]
+| 0x14105bad7      call fcn.140065650
+| 0x14105badc      mov byte [var_608h], r14b
+| 0x14105bae1      mov dword [var_3f4h], r14d
+| 0x14105bae8      mov rax, qword [var_600h]
+| 0x14105baed      mov qword [var_28h + 0x10], rax
+| 0x14105baf4      movzx eax, word [var_5f8h]
+| 0x14105baf9      mov word [var_28h + 0x18], ax
+| 0x14105bb00      mov qword [var_618h], rsi
+| 0x14105bb05      lea rax, qword [var_3f4h]
+| 0x14105bb0c      mov qword [var_620h], rax
+| 0x14105bb11      lea rax, qword [var_28h + 0x10]
+| 0x14105bb18      mov qword [var_628h], rax
+| 0x14105bb1d      mov r9b, 0x01
+| ; int64_t arg_38h
+| 0x14105bb20      xor r8d, r8d
+| ; int64_t arg_28h
+| 0x14105bb23      lea rdx, qword [var_608h]
+| ; int64_t arg_30h
+| 0x14105bb28      lea rcx, qword [var_504h]
+| 0x14105bb2c      call fcn.14107dd80
+| 0x14105bb31      mov dword [rdi], r14d
+| 0x14105bb34      lea rax, qword [var_504h]
+| 0x14105bb38      cmp rdi, rax
+| 0x14105bb3b      jz 0x14105bb4a
+| 0x14105bb41      mov eax, dword [var_504h]
+| 0x14105bb44      mov dword [rdi], eax
+| 0x14105bb46      mov dword [var_504h], r14d
+| 0x14105bb4a      mov rcx, qword [var_5f0h]
+| 0x14105bb4f      shl rcx, 0x14
+| 0x14105bb53      test rcx, 0xfffffffffff00000
+| 0x14105bb5a      jz 0x14105bb69
+| 0x14105bb60      sar rcx, 0x10
+| 0x14105bb64      call fcn.1428b3fa0
+| 0x14105bb69      mov rax, rdi
+| 0x14105bb6c      lea r11, qword [var_28h + 0x20]
+| 0x14105bb74      mov rbx, qword [r11+0x10]
+| 0x14105bb78      mov rsi, qword [r11+0x18]
+| 0x14105bb7c      mov rdi, qword [r11+0x20]
+| 0x14105bb80      mov r14, qword [r11+0x28]
+| 0x14105bb84      mov rsp, r11
+| 0x14105bb87      pop rbp
+\ 0x14105bb88      ret 
